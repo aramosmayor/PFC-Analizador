@@ -1,0 +1,406 @@
+6000;palabra de otro idioma
+6001;abreviatura, siglas, acrónimo o monograma
+6002;adjetivo indefinido usado como pronombre indefinido, adverbio de cantidad y locución adverbial
+6003;adjetivo posesivo y pronombre posesivo
+6004;adjetivo demostrativo
+6005;adjetivo indefinido
+6006;adjetivo posesivo
+6007;adjetivo numeral plural y pronombre en plural
+6008;adverbio
+6009;adverbio afirmativo
+6010;adverbio de cantidad
+6011;adverbio de cantidad y adverbio correlativo
+6012;adverbio comparativo
+6013;adverbio comparativo y adjetivo indefinido usado en locuciones adverbiales y conjuntivas
+6014;adverbio interrogativo de cantidad
+6015;adverbio interrogativo de lugar
+6016;adverbio de lugar
+6017;adverbio de lugar y de cantidad usado también en locución adverbial
+6018;adverbio de lugar y adverbio de cantidad
+6019;adverbio de lugar y adverbio modo
+6020;adverbio de lugar y adverbio de tiempo
+6021;adverbio de lugar y de modo usado en locución prepositiva
+6022;adverbio relativo de lugar
+6023;adverbio de lugar y de tiempo usado en locución adverbial
+6024;adverbio de lugar y de tiempo usado en locuciones conjuntivas y como sustantivo masculino
+6025;adverbio de modo
+6026;adverbio de modo o adverbio afirmativo
+6027;adverbio de modo o de cantidad
+6028;símbolo químico
+6029;adverbio de modo o de tiempo
+6030;adverbio de lugar, adverbio de modo y preposición
+6031;adverbio de modo, de cantidad, conjunción y exclamación usado como adjetivo invariante y en locuciones
+6032;adverbio de modo usado en locución conjuntiva subordinante adverbial concesiva
+6033;adverbio de modo, preposición y conjunción coordinante adversativa
+6034;adverbio comparativo, adjetivo indefinido y preposición usado en locuciones adverbiales y conjuntivas
+6035;adverbio de negación
+6036;adverbio de orden
+6037;adverbio de orden y tiempo
+6038;numeral cardinal
+6039;adverbio de modo y conjunción
+6040;adverbio relativo de tiempo y conjunción subordinante adverbial condicional y temporal
+6041;adverbio de tiempo
+6042;adverbio de tiempo y lugar
+6043;adverbio de tiempo, lugar y orden, conjunción coordinante adversativa o conjunción subordinante adverbial temporal
+6044;adverbio de tiempo y de modo
+6045;adverbio de tiempo, adverbio de modo y conjunción subordinante consecutiva usado también en locución subordinante adverbial temporal
+6046;adverbio de tiempo y conjunción subordinante temporal
+6049;adverbio de tiempo, adverbio de lugar y conjunción subordinante adverbial consecutiva
+6051;artículo determinado
+6052;adjetivo indefinido y artículo indeterminado
+6053;conjunción
+6054;conjunción coordinante adversativa
+6055;conjunción coordinante adversativa usada como adverbio de cantidad o modo
+6057;conjunción subordinante adverbial concesiva
+6058;conjunción subordinante adverbial concesiva y conjunción coordinante adversativa usada también en locuciones conjuntivas
+6059;conjunción subordinante adverbial condicional y conjunción subordinante sustantiva
+6060;conjunción coordinante copulativa
+6062;conjunción subordinante adverbial consecutiva
+6063;preposición y conjunción subordinante adverbial modal
+6064;contracción de preposición y artículo
+6065;sustantivo femenino plural usado también como sustantivo masculino
+6066;exclamación
+6067;expresión
+6069;adverbio numeral latino
+6071;símbolo
+6072;símbolo químico o abreviatura
+6073;preposición o conjunción subordinante adverbial final
+6074;onomatopeya
+6075;contracción
+6076;elemento prefijal
+6077;preposición
+6078;preposición, conjunción o adverbio de modo
+6079;pronombre
+6080;pronombre y adjetivo interrogativo, usado como pronombre exclamativo e indefinido
+6082;pronombre demostrativo
+6083;pronombre indefinido
+6084;pronombre interrogativo
+6085;pronombre indefinido o sustantivo masculino
+6086;pronombre interrogativo y pronombre exclamativo
+6087;pronombre personal
+6088;pronombre personal y pronombre indefinido
+6089;pronombre de relativo
+6090;conjunción subordinante sustantiva
+6092;pronombre de relativo y pronombre y adjetivo correlativo
+6093;conjunción subordinante adverbial causal y conjunción subordinante adverbial final
+6095;conjunción coordinante disyuntiva
+6096;conjunción subordinante adverbial causal usada en locuciones conjuntivas
+6097;adverbio de lugar y de tiempo también usado como exclamación
+6098;adverbio de lugar también usado como exclamación
+6099;preposición o exclamación
+6100;elemento sufijal
+6101;voz mnemotécnica para los modos de silogismo, se usa como sustantivo masculino
+6103;adverbio de duda
+6104;adverbio latino
+6105;conjunción latina
+6106;preposición latina
+6107;pronombre posesivo
+6108;pronombre latino
+6109;adverbio de tiempo y de lugar, conjunción, usado en locuciones y como adjetivo
+6110;adjetivo pronombre o pronombre indefinido usado a veces como conjunción
+6111;adverbio de tiempo y cantidad
+6112;adverbio también usado como exclamación
+6113;adverbio de lugar, adverbio de cantidad y preposición
+6114;pronombre en función adjetiva, usado como adjetivo ponderativo y en locución conjuntiva
+6116;adverbio de modo, cantidad y tiempo
+6117;conjunción coordinante copulativa, conjunción coordinante disyuntiva y adverbio de negación
+6119;contracción antigua de preposición y pronombre
+6120;pronombre demostrativo en función adjetiva
+6122;apócope
+6123;adverbio de lugar y tiempo usado en locución adverbial
+6124;pronombre interrogativo usado también como sustantivo
+6130;pronombre personal, adverbio afirmativo
+6131;adverbio de lugar y tiempo y adverbio de cantidad
+6132;adverbio de cantidad y adverbio numeral latino
+6133;adverbio de cantidad y tiempo
+6134;adverbio de modo o de duda usado también en locución
+6135;adverbio de lugar y de modo usado como exclamación
+6136;adjetivo y pronombre indefinido
+6137;adverbio relativo de lugar y conjunción subordinante adverbial de lugar
+6138;adverbio relativo de cantidad
+6142;elemento prefijal y sufijal
+6143;onomatopeya y sustantivo masculino
+6144;palabra de otro idioma usada como sustantivo de género común
+6145;palabra de otro idioma usada como sustantivo femenino
+6146;palabra de otro idioma usada como sustantivo masculino
+6147;palabra de otro idioma usada como adjetivo
+6148;palabra de otro idioma usada como adjetivo y sustantivo masculino
+6149;palabra de otro idioma usada como sustantivo masculino y femenino
+6150;palabra de otro idioma usada como sustantivo masculino o de género común
+6151;palabra de otro idioma usada como adjetivo y sustantivo de género común
+6152;palabra de otro idioma usada como sustantivo de género común
+6153;palabra de otro idioma usada como sustantivo de género femenino o común
+6154;palabra de otro idioma usada como adjetivo y sustantivo
+6155;palabra de otro idioma usada como sustantivo masculino y adverbio de modo
+6156;palabra de otro idioma usada como adjetivo y sustantivo de género masculino o común
+6157;palabra de otro idioma usada como adjetivo y sustantivo masculino o femenino
+6158;palabra de otro idioma usada como adverbio
+6159;palabra de otro idioma usada como adjetivo y como adverbio de modo
+6160;afijo
+6161;palabra de otro idioma usada como sustantivo masculino plural
+6162;palabra de otro idioma usada como sustantivo femenino plural
+6163;palabra de otro idioma usada como adjetivo y sustantivo femenino
+6165;adverbio de modo o exclamación
+6166;adverbio de modo, preposición o conjunción
+6167;adverbio interrogativo y exclamativo de modo
+6168;adverbio de modo relativo comparativo, preposición y conjunción subordinante adverbial condicional y modal
+6169;pronombre indefinido usado también en locuciones adjetivas o adverbiales
+6170;pronombre relativo, adjetivo relativo y adjetivo indefinido
+6171;adverbio interrogativo de tiempo
+6172;expresión latina
+6501;locución
+6502;locución adjetiva
+6503;locución adjetiva y adverbial
+6504;locución adverbial
+6505;locución adverbial de modo
+6506;locución adverbial de tiempo
+6507;locución conjuntiva coordinante disyuntiva o distributiva
+6508;locución conjuntiva coordinante disyuntiva
+6509;locución latina
+6510;locución prepositiva
+6511;locución inglesa
+6512;locución francesa
+6513;locución exclamativa
+6514;locución conjuntiva coordinante adversativa
+6515;sustantivo femenino
+6516;sustantivo femenino plural
+6517;sustantivo masculino
+6518;sustantivo masculino usado también en locución adverbial
+6519;nombre propio
+6520;nombre propio masculino
+6521;nombre propio masculino usado también como adjetivo
+6522;locución conjuntiva coordinante distributiva
+6523;sustantivo masculino plural
+6524;adjetivo usado también como sustantivo de género común
+6525;locución conjuntiva coordinante explicativa
+6526;locución conjuntiva coordinante adversativa y locución prepositiva
+6527;locución italiana
+6528;adjetivo
+6529;adjetivo usado también como sustantivo masculino
+6530;sustantivo de género común
+6531;onomatopeya
+6532;nombre propio femenino
+6533;apellido
+6534;nombre propio toponímico
+6535;locución conjuntiva subordinante adverbial causal
+6536;locución conjuntiva subordinante adverbial consecutiva
+6537;locución conjuntiva subordinante adverbial final
+6538;locución conjuntiva subordinante adverbial condicional
+6539;locución conjuntiva subordinante adverbial concesiva
+6540;locución conjuntiva subordinante adverbial comparativa
+6541;locución conjuntiva subordinante adverbial temporal
+6542;locución conjuntiva subordinante adverbial de lugar
+6543;locución conjuntiva
+6544;locución conjuntiva coordinante adversativa y locución conjuntiva subordinante adverbial temporal
+6545;locución conjuntiva subordinante adverbial consecutiva y locución conjuntiva subordinante adverbial temporal
+6546;locución conjuntiva subordinante adverbial de modo
+6801;adverbio de modo (acabado en mente)
+6802;adverbio de modo (acabado en mente) y adverbio de orden
+6803;adverbio de modo (acabado en mente) y adverbio de orden y tiempo
+6804;adverbio de modo (acabado en mente), adverbio de cantidad y adverbio de orden
+6805;adverbio de modo (acabado en mente), adverbio de tiempo y adverbio de cantidad
+6806;adverbio de modo (acabado en mente), adverbio de tiempo y adverbio de orden
+6807;adverbio de modo (acabado en mente), adverbio afirmativo y adverbio de cantidad
+6808;adverbio de modo (acabado en mente) y adverbio afirmativo
+6809;adverbio de modo (acabado en mente) y adverbio de cantidad
+6810;adverbio de modo (acabado en mente) y adverbio de tiempo
+6811;adverbio de tiempo, modo, lugar y cantidad (acabado en mente)
+6812;adverbio de modo y lugar (acabado en mente)
+7001;nombre propio
+7002;nombre propio masculino
+7003;nombre propio femenino
+7004;nombre propio femenino plural
+7005;nombre propio y adjetivo usado también como sustantivo
+7006;nombre propio masculino plural
+7010;nombre propio toponímico
+7011;nombre propio de persona
+7012;nombre propio de varón
+7013;nombre propio de mujer
+7014;apellido
+7015;nombre propio de varon y mujer
+7016;nombre propio de mujer y varón
+7100;sustantivo inexistente
+7109;sustantivo masculino usado más en plural
+7117;sustantivo con género ambiguo
+7118;sustantivo con género ambiguo o femenino
+7119;sustantivo con género ambiguo o masculino usado también en locuciones conjuntivas, adverbiales o adjetivas
+7120;sustantivo con género ambiguo o masculino
+7121;sustantivo con género ambiguo en plural
+7122;sustantivo del género común
+7123;sustantivo del género común usado como adjetivo y como sustantivo femenino
+7124;sustantivo del género común usado también como sustantivo femenino
+7125;sustantivo del género común usado también como femenino y como masculino
+7126;sustantivo del género común usado también como sustantivo masculino
+7127;sustantivo del género común usado también como masculino y como femenino
+7128;sustantivo del género común en plural
+7130;sustantivo femenino
+7134;sustantivo femenino, ambiguo o masculino
+7135;sustantivo femenino o común
+7136;sustantivo femenino, común o masculino 
+7137;sustantivo femenino o común en plurar
+7139;sustantivo femenino usado también en locución adjetiva
+7140;sustantivo femenino usado también en locución adjetiva o adverbial
+7141;sustantivo femenino usado también en locución adverbial
+7142;sustantivo femenino usado también en locución preposicional
+7143;sustantivo femenino o masculino
+7145;sustantivo de género femenino, masculino o común usado también como adjetivo
+7147;sustantivo femenino o masculino usado también en locución adverbial
+7148;sustantivo femenino o masculino en plural
+7151;sustantivo femenino plural
+7153;sustantivo masculino
+7156;sustantivo masculino usado también como adverbio de modo
+7159;sustantivo masculino o de género ambiguo
+7160;sustantivo masculino o de género común
+7163;sustantivo masculino y femenino
+7164;sustantivo masculino, femenino o ambiguo
+7166;sustantivo masculino usado también en locución adjetiva
+7167;sustantivo masculino usado también en locución adverbial
+7170;sustantivo masculino plural
+7171;sustantivo masculino plural usado como adjetivo
+7172;sustantivo masculino plural usado como sustantivo de género común
+7173;sustantivo masculino singular
+7174;sustantivo del género común usado también en locución adverbial
+7176;sustantivo femenino y adjetivo usado como sustantivo masculino
+7179;sustantivo masculino, femenino o común
+7181;sustantivo masculino o femenino usado en locución adverbial
+7182;pronombre y adjetivo interrogativo
+7191;adjetivo indefinido y pronombre indefinido
+7196;expresión latina usada también como sustantivo ambiguo
+7200;sustantivo de género ambiguo o común
+7202;sustantivo masculino usado también en locuciones
+7203;sustantivo femenino usado también en locuciones
+7210;sustantivo de género ambiguo, femenino o masculino
+7212;sustantivo masculino usado también en locución preposicional
+7214;sustantivo masculino usado a veces como femenino
+7215;sustantivo de género ambiguo, común o masculino
+7216;sustantivo de género ambiguo, masculino o femenino
+7223;adjetivo usado como sustantivo de género masculino o ambiguo
+7227;sustantivo masculino usado también en locución conjunción coordinante adversativa y en locución prepositiva
+7228;sustantivo del género común usado también como sustantivo femenino plural
+7229;sustantivo masculino y sustantivo femenino plural usado también en locuciones
+7231;sustantivo femenino usado a veces como masculino
+8100;adjetivo inexistente
+8101;pronombre y adjetivo relativo o indefinido
+8195;adjetivo comparativo usado como sustantivo y en locuciones adjetivas y adverbiales
+8200;adjetivo
+8201;adjetivo, adjetivo indefinido plural y pronombre indefinido
+8211;adjetivo usado también como sustantivo de género común
+8212;adjetivo usado también como sustantivo de género común o femenino
+8213;adjetivo usado también como sustantivo de género común o masculino
+8214;adjetivo usado también como sustantivo de género común, masculino o femenino
+8215;adjetivo usado también como sustantivo femenino
+8216;adjetivo usado también como sustantivo femenino y de género común
+8217;adjetivo usado en locución adjetiva
+8218;adjetivo usado en locuciones adverbiales
+8219;adjetivo usado en locución conjuntiva subordinante adverbial condicional
+8220;adjetivo usado también como sustantivo masculino
+8224;adjetivo y sustantivo masculino o común
+8225;adjetivo usado también como sustantivo masculino o femenino
+8226;adjetivo y sustantivo masculino usado en locución adverbial
+8227;adjetivo usado también como sustantivo masculino plural
+8228;adjetivo y pronombre demostrativo
+8229;adjetivo superlativo
+8230;adjetivo y pronombre indefinido usado en locuciones conjuntivas
+8231;adjetivo usado también como sustantivo
+8237;adjetivo usado como sustantivo y sustantivo de género común
+8238;adjetivo, sustantivo y locución adverbial
+8239;adjetivo comparativo, adjetivo superlativo y sustantivo masculino
+8241;adjetivo plural
+8242;adverbio de cantidad usado también como adjetivo
+8243;sustantivo del género común usado también como adjetivo 
+8244;sustantivo femenino usado también como adjetivo
+8245;sustantivo femenino usado también como adjetivo y como sustantivo de género común
+8246;sustantivo femenino o masculino y adjetivo
+8247;sustantivo masculino usado también como adjetivo
+8249;sustantivo masculino o adjetivo usado también en locución conjuntiva subordinante adverbial condicional o concesiva
+8250;sustantivo masculino o de género común usado también como adjetivo
+8251;sustantivo masculino y femenino usado también como adjetivo
+8256;adjetivo comparativo
+8258;adjetivo latino
+8259;adjetivo usado también como sustantivo de género ambiguo
+8260;adjetivo indefinido y pronombre indefinido
+8261;adjetivo usado también como sustantivo y sustantivo masculino
+8263;adjetivo usado en locución adjetiva y adverbial
+8264;adjetivo, sustantivo masculino también usado en locuciones adjetivas y adverbiales
+8265;sustantivo de género ambiguo y común usado también como adjetivo
+8266;adjetivo y sustantivo femenino usado en locución adjetiva y adverbial
+8267;adjetivo y sustantivo masculino usado en locución adjetiva
+8276;adjetivo, sustantivo femenino usado en locución adverbial
+8277;adjetivo y sustantivo masculino usado en locución conjuntiva
+8279;adjetivo usado como sustantivo de género femenino o ambiguo
+8281;adjetivo usado en locución preposicional
+8282;adjetivo, sustantivo masculino, sustantivo femenino, usado en locuciones
+8283;adjetivo, sustantivo masculino y sustantivo femenino plural
+8286;sustantivo femenino y adjetivo usado también como sustantivo
+8287;sustantivo masculino usado también como adjetivo y en locución adjetiva
+8288;sustantivo masculino usado también como adjetivo y en locución adverbial
+8290;sustantivo masculino y adjetivo usado también como sustantivo de género común
+8291;adjetivo, sustantivo masculino, sustantivo femenino y locución adverbial
+8292;adjetivo y sustantivo masculino usado en locuciones
+8293;adjetivo usado también como sustantivo de género común, ambiguo o femenino
+8295;adjetivo, sustantivo masculino, sustantivo femenino y locución adjetiva
+8296;adjetivo, sustantivo y locución adjetiva
+8297;adjetivo usado también como sustantivo masculino o femenino y en locución conjuntiva
+8298;adjetivo usado también como sustantivo femenino plural
+8299;adjetivo usado también como sustantivo de género común o femenino plural
+8300;adjetivo usado también como sustantivo de género común o masculino plural
+8301;adjetivo superlativo y sustantivo masculino
+8302;adjetivo numeral
+9100;verbo inexistente
+9255;verbo
+9256;verbo transitivo
+9257;verbo pronominal
+9258;verbo intransitivo
+9261;verbo recíproco
+9263;verbo defectivo
+9267;verbo transitivo y pronominal
+9268;verbo transitivo o intransitivo
+9269;verbo transitivo o unipersonal
+9270;verbo transitivo o impersonal
+9273;verbo transitivo o defectivo
+9274;verbo transitivo y antiguo o desusado
+9278;verbo pronominal o intransitivo
+9281;verbo pronominal o recíproco
+9283;verbo pronominal y defectivo
+9284;verbo pronominal y antiguo o desusado
+9289;verbo intransitivo o unipersonal
+9290;verbo intransitivo o impersonal
+9292;verbo intransitivo o auxiliar
+9293;verbo intransitivo y defectivo
+9294;verbo intransitivo y antiguo o desusado
+9303;verbo unipersonal y defectivo
+9378;verbo transitivo, pronominal o intransitivo
+9379;verbo transitivo, pronominal o unipersonal
+9380;verbo transitivo, pronominal o impersonal
+9381;verbo transitivo, pronominal o recíproco
+9383;verbo transitivo, pronominal y defectivo
+9384;verbo transitivo, pronominal y antiguo o desusado
+9389;verbo transitivo, intransitivo o unipersonal
+9390;verbo transitivo, intransitivo o impersonal
+9393;verbo transitivo, intransitivo y defectivo
+9394;verbo transitivo, intransitivo y antiguo o desusado
+9444;verbo transitivo, defectivo y antiguo o desusado
+9489;verbo pronominal, intransitivo o unipersonal
+9493;verbo pronominal, intransitivo y defectivo
+9494;verbo pronominal, intransitivo y antiguo o desusado
+9503;verbo pronominal, unipersonal y defectivo
+9600;verbo intransitivo, unipersonal o impersonal
+9603;verbo intransitivo, unipersonal y defectivo
+9613;verbo intransitivo, impersonal y defectivo
+9634;verbo intransitivo, auxiliar y antiguo o desusado
+9644;verbo intransitivo, defectivo y antiguo o desusado
+10489;verbo transitivo, pronominal, intransitivo o unipersonal
+10490;verbo transitivo, pronominal, intransitivo o impersonal
+10491;verbo transitivo, pronominal, intransitivo o recíproco
+10492;verbo transitivo, pronominal, intransitivo o auxiliar
+10493;verbo transitivo, pronominal, intransitivo y defectivo
+10494;verbo transitivo, pronominal, intransitivo y antiguo o desusado
+10512;verbo transitivo, pronominal, impersonal o auxiliar
+10600;verbo transitivo, intransitivo, unipersonal o impersonal
+10603;verbo transitivo, intransitivo, unipersonal y defectivo
+10613;verbo transitivo, intransitivo, impersonal y defectivo
+11600;verbo pronominal, intransitivo, unipersonal o impersonal
+11603;verbo pronominal, intransitivo, unipersonal y defectivo
+12744;verbo intransitivo, unipersonal, defectivo y antiguo o desusado
+21600;verbo transitivo, pronominal, intransitivo, unipersonal o impersonal
+21603;verbo transitivo, pronominal, intransitivo, unipersonal y defectivo

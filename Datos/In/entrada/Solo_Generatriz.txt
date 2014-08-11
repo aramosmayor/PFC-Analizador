@@ -1,0 +1,76 @@
+!
+,
+.
+...
+:
+;
+?
+FDE
+IDE
+adjetivo
+adjetivo correlativo
+adjetivo demostrativo
+adjetivo indefinido
+adjetivo interrogativo
+adjetivo numeral
+adjetivo ponderativo
+adjetivo posesivo
+adverbio
+adverbio afirmativo
+adverbio comparativo
+adverbio de cantidad
+adverbio de duda
+adverbio de lugar
+adverbio de modo
+adverbio de modo relativo comparativo
+adverbio de negación
+adverbio de tiempo
+adverbio interrogativo de cantidad
+adverbio interrogativo de lugar
+adverbio interrogativo de tiempo
+adverbio interrogativo y exclamativo de modo
+adverbio relativo de cantidad
+adverbio relativo de lugar
+adverbio relativo de tiempo
+artículo determinado
+conjunción
+conjunción adversativa
+conjunción coordinante copulativa
+conjunción coordinante disyuntiva
+conjunción modal
+conjunción subordinante adverbial causal
+conjunción subordinante adverbial concesiva
+conjunción subordinante adverbial condicional
+conjunción subordinante adverbial consecutiva
+conjunción subordinante adverbial final
+conjunción subordinante sustantiva
+conjunción subordinante temporal
+exclamación
+expresión
+locución conjuntiva coordinante adversativa
+locución conjuntiva coordinante explicativa
+locución conjuntiva subordinante adverbial causal
+locución conjuntiva subordinante adverbial concesiva
+locución conjuntiva subordinante adverbial condicional
+locución conjuntiva subordinante adverbial consecutiva
+locución conjuntiva subordinante adverbial de modo
+locución conjuntiva subordinante adverbial final
+locución conjuntiva subordinante adverbial temporal
+nombre propio lugar
+nombre propio original
+nombre propio persona
+numeral cardinal
+onomatopeya
+preposición
+pronombre de relativo
+pronombre demostrativo
+pronombre indefinido
+pronombre interrogativo
+pronombre latino
+pronombre personal
+pronombre plural
+pronombre posesivo
+sustantivo
+verbo
+¡
+¿

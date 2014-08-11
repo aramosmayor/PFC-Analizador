@@ -1,0 +1,67 @@
+0: Infinitivo
+1: Gerundio
+2: Participio
+3: 1ª persona del singular del pretérito imperfecto de indicativo
+4: 2ª persona del singular del pretérito imperfecto de indicativo
+5: 3ª persona del singular del pretérito imperfecto de indicativo
+6: 1ª persona del plural del pretérito imperfecto de indicativo
+7: 2ª persona del plural del pretérito imperfecto de indicativo
+8: 3ª persona del plural del pretérito imperfecto de indicativo
+9: 1ª persona del singular del condicional simple
+10: 2ª persona del singular del condicional simple
+11: 3ª persona del singular del condicional simple
+12: 1ª persona del plural del condicional simple
+13: 2ª persona del plural del condicional simple
+14: 3ª persona del plural del condicional simple
+15: 1ª persona del singular del futuro imperfecto de indicativo
+16: 2ª persona del singular del futuro imperfecto de indicativo
+17: 3ª persona del singular del futuro imperfecto de indicativo
+18: 1ª persona del plural del futuro imperfecto de indicativo
+19: 2ª persona del plural del futuro imperfecto de indicativo
+20: 3ª persona del plural del futuro imperfecto de indicativo
+21: 1ª persona del singular del futuro imperfecto de subjuntivo
+22: 2ª persona del singular del futuro imperfecto de subjuntivo
+23: 3ª persona del singular del futuro imperfecto de subjuntivo
+24: 1ª persona del plural del futuro imperfecto de subjuntivo
+25: 2ª persona del plural del futuro imperfecto de subjuntivo
+26: 3ª persona del plural del futuro imperfecto de subjuntivo
+27: 1ª persona del singular del pretérito imperfecto de subjuntivo
+28: 2ª persona del singular del pretérito imperfecto de subjuntivo
+29: 3ª persona del singular del pretérito imperfecto de subjuntivo
+30: 1ª persona del plural del pretérito imperfecto de subjuntivo
+31: 2ª persona del plural del pretérito imperfecto de subjuntivo
+32: 3ª persona del plural del pretérito imperfecto de subjuntivo
+33: 1ª persona del singular del pretérito indefinido de indicativo
+34: 2ª persona del singular del pretérito indefinido de indicativo
+35: 3ª persona del singular del pretérito indefinido de indicativo
+36: 1ª persona del plural del pretérito indefinido de indicativo
+37: 2ª persona del plural del pretérito indefinido de indicativo
+38: 3ª persona del plural del pretérito indefinido de indicativo
+39: 1ª persona del singular del imperativo (no existe)
+40: 2ª persona del singular del imperativo
+41: 3ª persona del singular del imperativo
+42: 1ª persona del plural del imperativo
+43: 2ª persona del plural del imperativo
+44: 3ª persona del plural del imperativo
+45: 1ª persona del singular del presente de subjuntivo
+46: 2ª persona del singular del presente de subjuntivo
+47: 3ª persona del singular del presente de subjuntivo
+48: 1ª persona del plural del presente de subjuntivo
+49: 2ª persona del plural del presente de subjuntivo
+50: 3ª persona del plural del presente de subjuntivo
+51: 1ª persona del singular del presente de indicativo
+52: 2ª persona del singular del presente de indicativo
+53: 3ª persona del singular del presente de indicativo
+54: 1ª persona del plural del presente de indicativo
+55: 2ª persona del plural del presente de indicativo
+56: 3ª persona del plural del presente de indicativo
+57: Adjetivación femenino singular
+58: Adjetivación masculino plural
+59: Adjetivación femenino plural
+60: Adverbio de modo (ya no existe: relación o flexión del participio como adjetivo)
+61: Adjetivación del superlativo en  masculino singular (ya no existe: flexión del participio como adjetivo)
+62: Adjetivación del superlativo en  femenino singular (ya no existe: flexión del participio como adjetivo)
+63: Adjetivación del superlativo en  masculino plural (ya no existe: flexión del participio como adjetivo)
+64: Adjetivación del superlativo en  femenino plural (ya no existe: flexión del participio como adjetivo)
+65: Adverbialización del superlativo (ya no existe: flexión del participio como adjetivo)
+66: Diminutivo del gerundio

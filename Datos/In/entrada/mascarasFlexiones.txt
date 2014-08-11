@@ -1,0 +1,265 @@
+;-------------------------------------------------------------------------------------------------------
+;definicion de las mascaras correspondientes a los codigos de flexion de la morfoDLL:
+;
+;          codigo_flexion#mascara1#mascara2#descripcion_flexion
+;
+;las mascara1 se usara para la infoFlex1, y la mascara2 para la infloFlex2
+;
+;Nota: recuerdese que:
+;Se usara un entero de 32 bits (de los cuales se usan 31) para la informacion flexiva 1: genero, numero, persona, modo (aunque en las mascaras correspondientes solo aparecen los 14 bits menos significativos, ya que los bits 14-31 valen 0 para todas las flexiones)
+;Se usara un entero de 32 bits para la informacion flexiva 2: tiempo, categoria y persona del proclitico (aunque en las mascaras correspondientes solo aparecen los 8 bits menos significativos, ya que el resto valen 0 para todas las flexiones)
+;
+;-----------------------------------------------------
+;---------------------INFO FLEX 1---------------------
+
+;-----------------------------------------------------
+;
+; BIT 31 - BIT 30 - BIT 29 - BIT 28 - BIT 27 - BIT 26 - BIT 25 - BIT 24
+
+;NO USADO NO USADO  NO USADO  PPI      SPI      NPI      FPI      MPI       
+;
+; BIT 23 - BIT 22 - BIT 21 - BIT 20 - BIT 19 - BIT 18 - BIT 17 - BIT 16
+
+;   PPD     SPD       NPD     FPD      MPD      PPA      SPA      NPA     
+;
+; BIT 15 - BIT 14 - BIT 13 - BIT 12 - BIT 11 - BIT 10 - BIT 9 - BIT 8
+
+;   FPA      MPA      3ªP      2ªP      1ªP      IMP      SUB    IND
+;
+; BIT 7 - BIT 6 - BIT 5 - BIT 4 - BIT 3 - BIT 2 - BIT 1 - BIT 0
+
+;  PAR     GER     INF     PL     SNG      NT      FEM     MAS
+;
+;PPI: plural proclitico indirecto
+
+;SPI: singular proclitico indirecto
+
+;NPI: neutro proclitico indirecto
+
+;FPI: femenino proclitico indirecto
+
+;MPI: masculino proclitico indirecto
+
+;PPD: plural proclitico directo
+
+;SPD: singular proclitico directo
+
+;NPD: neutro proclitico directo
+
+;FPD: femenino proclitico directo
+
+;MPD: masculino proclitico directo
+
+;PPA: plural proclitico atributivo
+
+;SPA: singular proclitico atributivo
+
+;NPA: neutro proclitico atributivo
+
+;FPA: femenino proclitico atributivo
+
+;MPA: masculino proclitico atributivo
+;3ªP: tercera persona
+;2ªP: segunda persona
+;1ªP: primera persona
+;IMP: modo imperativo
+;SUB: modo subjuntivo
+;IND: modo indicativo
+;PAR: participio
+;GER: gerundio
+;INF: infinitivo
+;PL: plural
+;SNG: singular
+;NT: neutro
+;FEM: femenino
+;MAS: masculino
+;
+;-----------------------------------------------------
+;---------------------INFO FLEX 2---------------------
+
+;-----------------------------------------------------
+;
+;bits 0-4: tiempo
+;bits 5-7: categoria
+;bits 8-16: persona proclitico
+
+; BIT 31 - BIT 30 - BIT 29 - BIT 28 - BIT 27 - BIT 26 - BIT 25 - BIT 24
+;                         no usados
+
+
+;
+; BIT 23 - BIT 22 - BIT 21 - BIT 20 - BIT 19 - BIT 18 - BIT 17 - BIT 16
+
+;                      no usados                                  3PI
+
+
+;
+; BIT 15 - BIT 14 - BIT 13 - BIT 12 - BIT 11 - BIT 10 - BIT 9 - BIT 8
+
+; 2PI      1PI       3PD     2PD       1PD     3PA      2PA     1PA
+;
+; BIT 7  - BIT 6  - BIT 5  - BIT 4  - BIT 3  - BIT 2 -  BIT 1 - BIT 0
+;   TRA     PRO     IMPER    COND     FIMP     PIND     PIMP    PRE
+;
+;-------------------------------------------------------------------------------------------------------
+0#00000000100000#00000000#Infinitivo
+1#00000001000000#00000000#Gerundio
+2#00000010001001#00000000#Participio
+3#00100100001000#00000010#1ª persona del singular del pretérito imperfecto de indicativo
+4#01000100001000#00000010#2ª persona del singular del pretérito imperfecto de indicativo
+5#10000100001000#00000010#3ª persona del singular del pretérito imperfecto de indicativo
+6#00100100010000#00000010#1ª persona del plural del pretérito imperfecto de indicativo
+7#01000100010000#00000010#2ª persona del plural del pretérito imperfecto de indicativo
+8#10000100010000#00000010#3ª persona del plural del pretérito imperfecto de indicativo
+9#00100100001000#00010000#1ª persona del singular del condicional simple
+10#01000100001000#00010000#2ª persona del singular del condicional simple
+11#10000100001000#00010000#3ª persona del singular del condicional simple
+12#00100100010000#00010000#1ª persona del plural del condicional simple
+13#01000100010000#00010000#2ª persona del plural del condicional simple
+14#10000100010000#00010000#3ª persona del plural del condicional simple
+15#00100100001000#00001000#1ª persona del singular del futuro imperfecto de indicativo
+16#01000100001000#00001000#2ª persona del singular del futuro imperfecto de indicativo
+17#10000100001000#00001000#3ª persona del singular del futuro imperfecto de indicativo
+18#00100100010000#00001000#1ª persona del plural del futuro imperfecto de indicativo
+19#01000100010000#00001000#2ª persona del plural del futuro imperfecto de indicativo
+20#10000100010000#00001000#3ª persona del plural del futuro imperfecto de indicativo
+21#00101000001000#00001000#1ª persona del singular del futuro imperfecto de subjuntivo
+22#01001000001000#00001000#2ª persona del singular del futuro imperfecto de subjuntivo
+23#10001000001000#00001000#3ª persona del singular del futuro imperfecto de subjuntivo
+24#00101000010000#00001000#1ª persona del plural del futuro imperfecto de subjuntivo
+25#01001000010000#00001000#2ª persona del plural del futuro imperfecto de subjuntivo
+26#10001000010000#00001000#3ª persona del plural del futuro imperfecto de subjuntivo
+27#00101000001000#00000010#1ª persona del singular del pretérito imperfecto de subjuntivo
+28#01001000001000#00000010#2ª persona del singular del pretérito imperfecto de subjuntivo
+29#10001000001000#00000010#3ª persona del singular del pretérito imperfecto de subjuntivo
+30#00101000010000#00000010#1ª persona del plural del pretérito imperfecto de subjuntivo
+31#01001000010000#00000010#2ª persona del plural del pretérito imperfecto de subjuntivo
+32#10001000010000#00000010#3ª persona del plural del pretérito imperfecto de subjuntivo
+33#00100100001000#00000100#1ª persona del singular del pretérito indefinido de indicativo
+34#01000100001000#00000100#2ª persona del singular del pretérito indefinido de indicativo
+35#10000100001000#00000100#3ª persona del singular del pretérito indefinido de indicativo
+36#00100100010000#00000100#1ª persona del plural del pretérito indefinido de indicativo
+37#01000100010000#00000100#2ª persona del plural del pretérito indefinido de indicativo
+38#10000100010000#00000100#3ª persona del plural del pretérito indefinido de indicativo
+39#00110000001000#00000001#1ª persona del singular del imperativo (no existe)
+40#01010000001000#00000001#2ª persona del singular del imperativo
+41#10010000001000#00000001#3ª persona del singular del imperativo
+42#00110000010000#00000001#1ª persona del plural del imperativo
+43#01010000010000#00000001#2ª persona del plural del imperativo
+44#10010000010000#00000001#3ª persona del plural del imperativo
+45#00101000001000#00000001#1ª persona del singular del presente de subjuntivo
+46#01001000001000#00000001#2ª persona del singular del presente de subjuntivo
+47#10001000001000#00000001#3ª persona del singular del presente de subjuntivo
+48#00101000010000#00000001#1ª persona del plural del presente de subjuntivo
+49#01001000010000#00000001#2ª persona del plural del presente de subjuntivo
+50#10001000010000#00000001#3ª persona del plural del presente de subjuntivo
+51#00100100001000#00000001#1ª persona del singular del presente de indicativo
+52#01000100001000#00000001#2ª persona del singular del presente de indicativo
+53#10000100001000#00000001#3ª persona del singular del presente de indicativo
+54#00100100010000#00000001#1ª persona del plural del presente de indicativo
+55#01000100010000#00000001#2ª persona del plural del presente de indicativo
+56#10000100010000#00000001#3ª persona del plural del presente de indicativo
+57#00000010001010#00000000#Adjetivación femenino singular
+58#00000010010001#00000000#Adjetivación masculino plural
+59#00000010010010#00000000#Adjetivación femenino plural
+60#00000000000000#00000000#Adverbio de modo (ya no existe: relación o flexión del participio como adjetivo)
+61#00000000001001#00000000#Adjetivación del superlativo en  masculino singular (ya no existe: flexión del participio como adjetivo)
+62#00000000001010#00000000#Adjetivación del superlativo en  femenino singular (ya no existe: flexión del participio como adjetivo)
+63#00000000010001#00000000#Adjetivación del superlativo en  masculino plural (ya no existe: flexión del participio como adjetivo)
+64#00000000010010#00000000#Adjetivación del superlativo en  femenino plural (ya no existe: flexión del participio como adjetivo)
+65#00000000000000#00000000#Adverbialización del superlativo (ya no existe: flexión del participio como adjetivo)
+66#00000000000000#00000000#Diminutivo del gerundio
+100#00000000000000#00000000#Forma canónica.
+101#00000000000000#00000000#Palabra significante en una frase.
+102#00000000001001#00000000#Forma del masculino singular.
+103#00000000001010#00000000#Forma del femenino singular.
+104#00000000010001#00000000#Forma del masculino plural.
+105#00000000010010#00000000#Forma del femenino plural.
+106#00000000001010#00000000#Adverbialización de un adjetivo (forma del femenino singular con –mente, casi todas están como relaciones).
+107#00000000001001#00000000#Forma superlativa masculino singular de un adjetivo (–ísimo).
+108#00000000001010#00000000#Forma superlativa femenino singular de un adjetivo (–ísima).
+109#00000000010001#00000000#Forma superlativa masculino plural de un adjetivo (–ísimos).
+110#00000000010010#00000000#Forma superlativa femenino plural de un adjetivo (–ísimas).
+111#00000000001010#00000000#Forma sustantivada femenino singular de un adjetivo en –ble (–bilidad) (no existe: está como relación, derivación).
+112#00000000010010#00000000#Forma sustantivada femenino plural de un adjetivo en –ble (–bilidades) (no existe: está como flexión de una relación).
+113#00000000001000#00000000#Forma adjetivada singular de un nombre en –bilidad (–ble ) (no existe: está como relación, primitiva).
+114#00000000010000#00000000#Forma adjetivada plural de un nombre en –bilidad (–bles ) (no existe: está como flexión de una relación).
+115#00000000001001#00000000#Forma adjetiva masculino singular de un adverbio de modo (no existe: está como relación, primitiva).
+116#00000000001010#00000000#Forma adjetiva femenino singular de un adverbio de modo (no existe: está como flexión de una relación).
+117#00000000010001#00000000#Forma adjetiva masculino plural de un adverbio de modo (no existe: está como flexión de una relación).
+118#00000000010010#00000000#Forma adjetiva femenino plural de un adverbio de modo (no existe: está como flexión de una relación).
+119#00000000001001#00000000#Forma del aumentativo I masculino singular (–azo).
+120#00000000001010#00000000#Forma del aumentativo I femenino singular (–aza).
+121#00000000010001#00000000#Forma del aumentativo I masculino plural (–azos).
+122#00000000010010#00000000#Forma del aumentativo I femenino plural (–azas).
+123#00000000001001#00000000#Forma del aumentativo II masculino singular (–ón).
+124#00000000001010#00000000#Forma del aumentativo II femenino singular (–ona).
+125#00000000010001#00000000#Forma del aumentativo II masculino plural (–ones).
+126#00000000010010#00000000#Forma del aumentativo II femenino plural (–onas).
+127#00000000001001#00000000#Forma del aumentativo III masculino singular (–ote).
+128#00000000001010#00000000#Forma del aumentativo III femenino singular (–ota).
+129#00000000010001#00000000#Forma del aumentativo III masculino plural (–otes).
+130#00000000010010#00000000#Forma del aumentativo III femenino plural (–otas).
+131#00000000001001#00000000#Forma del aumentativo IV masculino singular (–acho).
+132#00000000001010#00000000#Forma del aumentativo IV femenino singular (–acha).
+133#00000000010001#00000000#Forma del aumentativo IV masculino plural (–achos).
+134#00000000010010#00000000#Forma del aumentativo IV femenino plural (–achas).
+135#00000000001001#00000000#Formas de los aumentativos menos frecuentes en masculino singular (–achón, –achote, –ajón, –allón, –anchón, –ancón, –ardo, –arrón, –azón, –ejón, –ellón, –erón, –etón, –onazo, –orrón, –otón, –ucón, –udo, –ujón, –ullón, –urrón).
+136#00000000001010#00000000#Formas de los aumentativos menos frecuentes en femenino singular (–achona, –achota, –ajona, –allona, –anchona, –ancona, –arda, –arrona, –azona, –ejona, –ellona, –erona, –etona, –onaza, –orrona, –otona, –ucona, –uda, –ujona, –ullona, –urrona).
+137#00000000010001#00000000#Formas de los aumentativos menos frecuentes en masculino plural (–achones, –achotes, –ajones, –allones, –anchones, –ancones, –ardos, –arrones, –azones, –ejones, –ellones, –erones, –etones, –onazos, –orrones, –otones, –ucones, –udos, –ujones, –ullones, –urrones).
+138#00000000010010#00000000#Formas de los aumentativos menos frecuentes en femenino plural (–achonas, –achotas, –ajonas, –allonas, –anchonas, –anconas, –ardas, –arronas, –azonas, –ejonas, –ellonas, –eronas, –etonas, –onazas, –orronas, –otonas, –uconas, –udas, –ujonas, –ullonas, –urronas).
+139#00000000001001#00000000#Forma del despectivo I masculino singular (–ejo).
+140#00000000001010#00000000#Forma del despectivo I femenino singular (–eja).
+141#00000000010001#00000000#Forma del despectivo I masculino plural (–ejos).
+142#00000000010010#00000000#Forma del despectivo I femenino plural (–ejas).
+143#00000000001001#00000000#Forma del despectivo II masculino singular (–ucho).
+144#00000000001010#00000000#Forma del despectivo II femenino singular (–ucha).
+145#00000000010001#00000000#Forma del despectivo II masculino plural (–uchos).
+146#00000000010010#00000000#Forma del despectivo II femenino plural (–uchas).
+147#00000000001001#00000000#Otras formas de los despectivos en masculino singular (–acho, –aco, –ajo, –anco, –aracho, –ardo, –arraco, –aruco, –astro, –astre, –azo, –ete, –orrio, –ote, –uco, –ujo, –ujón, –urrón, –usco, –uzco, –uzo).
+148#00000000001010#00000000#Otras formas de los despectivos en femenino singular (–acha, –aca, –aja, –anca, –aracha, –arda, –arraca, –aruca, –astra, –aza, –orria, –uca, –uja, –ujona, –urrona, –usca, –uzca, –uza).
+149#00000000010001#00000000#Otras formas de los despectivos en masculino plural (–achos, –acos, –ajos, –ancos, –arachos, –ardos, –arracos, –arucos, –astros, –astres, –azos, –etes, –orrios, –otes, –ucos, –ujos, –ujones, –urrones, –uscos, –uzcos, –uzos).
+150#00000000010010#00000000#Otras formas de los despectivos en femenino plural (–achas, –acas, –ajas, –ancas, –arachas, –ardas, –arracas, –arucas, –astras, –azas, –orrias, –ucas, –ujas, –ujonas, –urronas, –uscas, –uzcas, –uzas).
+151#00000000001001#00000000#Formas de los despectivos menos frecuentes en masculino singular (–achuelo, –aino, –ancho, –ango, –arajo, –arasco, –arazco, –aresco, –arezco, –ario, –arisco, –arizco, –arracho, –arrajo, –arro, –arrón, –arusco, –aruzco, –azón, –enco, –encho, –iche, –il, –istrajo, –oche, –oncho, –orio, –orro, –otazo, –ullo).
+152#00000000001010#00000000#Formas de los despectivos menos frecuentes en femenino singular (–achuela, –aina, –alla, –ancha, –anga, –araja, –arasca, –arazca, –aresca, –arezca, –aria, –arisca, –arizca, –arracha, –arraja, –arra, –arrona, –arusca, –aruzca, –azona, –enca, –encha, –icha, –istraja, –ocha, –oncha, –oria, –orra, –otaza, –ulla).
+153#00000000010001#00000000#Formas de los despectivos menos frecuentes en masculino plural (–achuelos, –ainos, –anchos, –angos, –arajos, –arascos, –arazcos, –arescos, –arezcos, –arios, –ariscos, –arizcos, –arrachos, –arrajos, –arros, –arrones, –aruscos, –aruzcos, –azones, –encos, –enchos, –iches, –iles, –istrajos, –oches, –onchos, –orios, –orros, –otazos, –ullos).
+154#00000000010010#00000000#Formas de los despectivos menos frecuentes en femenino plural (–achuelas, –ainas, –allas, –anchas, –angas, –arajas, –arascas, –arazcas, –arescas, –arezcas, –arias, –ariscas, –arizcas, –arrachas, –arrajas, –arras, –arronas, –aruscas, –aruzcas, –azonas, –encas, –enchas, –ichas, –istrajas, –ochas, –onchas, –orias, –orras, –otazas, –ullas).
+155#00000000001001#00000000#Forma del diminutivo I masculino singular (–ito, –cito, –ecito, –ececito).
+156#00000000001010#00000000#Forma del diminutivo I femenino singular (–ita, –cita, –ecita, –ececita).
+157#00000000010001#00000000#Forma del diminutivo I masculino plural (–itos, –citos, –ecitos, –ececitos).
+158#00000000010010#00000000#Forma del diminutivo I femenino plural (–itas, –citas, –ecitas, –ececitas).
+159#00000000001001#00000000#Forma del diminutivo II masculino singular (–illo, –cillo, –ecillo, –ececillo).
+160#00000000001010#00000000#Forma del diminutivo II femenino singular (–illa, –cilla, –ecilla, –ececilla).
+161#00000000010001#00000000#Forma del diminutivo II masculino plural (–illos, –cillos, –ecillos, –ececillos).
+162#00000000010010#00000000#Forma del diminutivo II femenino plural (–illas, –cillas, –ecillas, –ececillas).
+163#00000000001001#00000000#Forma del diminutivo III masculino singular (–ico, –cico, –ecico, –ececico).
+164#00000000001010#00000000#Forma del diminutivo III femenino singular (–ica, –cica, –ecica, –ececica).
+165#00000000010001#00000000#Forma del diminutivo III masculino plural (–icos, –cicos, –ecicos, –ececicos).
+166#00000000010010#00000000#Forma del diminutivo III femenino plural (–icas, –cicas, –ecicas, –ececicas).
+167#00000000001001#00000000#Forma del diminutivo IV masculino singular (–ín, –cín, –ecín, –ececín).
+168#00000000001010#00000000#Forma del diminutivo IV femenino singular (–ina, –cina, –ecina, –ececina).
+169#00000000010001#00000000#Forma del diminutivo IV masculino plural (–ines, –cines, –ecines, –ececines).
+170#00000000010010#00000000#Forma del diminutivo IV femenino plural (–inas, –cinas, –ecinas, –ececinas).
+171#00000000001001#00000000#Forma del diminutivo V masculino singular (–uelo, –zuelo, –ezuelo, –ecezuelo).
+172#00000000001010#00000000#Forma del diminutivo V femenino singular (–uela, –zuela, –ezuela, –ecezuela).
+173#00000000010001#00000000#Forma del diminutivo V masculino plural (–uelos, –zuelos, –ezuelos, –ecezuelos).
+174#00000000010010#00000000#Forma del diminutivo V femenino plural (–uelas, –zuelas, –ezuelas, –ecezuelas).
+175#00000000001001#00000000#Otras formas de los diminutivos en masculino singular (–ellín, –etín, –irritín, –itín, –orritín, –orrotín).
+176#00000000001010#00000000#Otras formas de los diminutivos en femenino singular (–ellina, –etina, –irritina, –itina, –orritina, –orrotina).
+177#00000000010001#00000000#Otras formas de los diminutivos en masculino plural (–ellines, –etines, –irritines, –itines, –orritines, –orrotines).
+178#00000000010010#00000000#Otras formas de los diminutivos en femenino plural (–ellinas, –etinas, –irritinas, –itinas, –orritinas, –orrotinas).
+179#00000000001001#00000000#Formas de los diminutivos menos frecuentes en masculino singular (–aco, –ajo, –ancho, –anchuelo, –arajo, –ato, –ejo, –encho, –ete, –eto, –ezno, –ijo, –ino, –iño, –oncho, –ote, –ucho, –uco, –ugo, –ujo, –ullo).
+180#00000000001010#00000000#Formas de los diminutivos menos frecuentes en femenino singular (–aca, –aja, –ancha, –anchuela, –araja, –ata, –eja, –encha, –eta, –ezna, –ija, –ina, –iña, –oncha, –ota, –ucha, –uca, –uga, –uja, –ulla).
+181#00000000010001#00000000#Formas de los diminutivos menos frecuentes en masculino plural (–acos, –ajos, –anchos, –anchuelos, –arajos, –atos, –ejos, –enchos, –etes, –etos, –eznos, –ijos, –inos, –iños, –onchos, –otes, –uchos, –ucos, –ugos, –ujos, –ullos).
+182#00000000010010#00000000#Formas de los diminutivos menos frecuentes en femenino plural (–acas, –ajas, –anchas, –anchuelas, –arajas, –atas, –ejas, –enchas, –etas, –eznas, –ijas, –inas, –iñas, –onchas, –otas, –uchas, –ucas, –ugas, –ujas, –ullas).
+183#00000000000000#00000000#Aumentativo de adverbio.
+184#00000000000000#00000000#Despectivo de adverbio.
+185#00000000000000#00000000#Diminutivo de adverbio.
+186#00000000000000#00000000#Superlativo de adverbio (no tiene género).
+187#00000000000000#00000000#Forma adverbializada del grado superlativo (bueno—buenísimo—buenísimamente).
+188#00000000000000#00000000#Forma canónica alternativa (cardiaco—cardíaco).
+189#00000000001100#00000000#Forma del neutro singular.
+190#00000000010100#00000000#Forma del neutro plural.
+191#00000000000000#00000000#Forma minúscula de un nombre propio.
+192#00000000000001#00000000#Forma heteronímica masculina.
+193#00000000000010#00000000#Forma heteronímica femenina.

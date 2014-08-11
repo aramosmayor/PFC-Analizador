@@ -1,0 +1,142 @@
+!
+,
+.
+...
+:
+;
+?
+FDE
+Fin de oración
+Fin de proposición
+IDE
+Inicio de oración
+Inicio de proposición
+Signo de puntuación
+adjetivo
+adjetivo correlativo
+adjetivo demostrativo
+adjetivo indefinido
+adjetivo indefinido antepuesto
+adjetivo indefinido pospuesto
+adjetivo interrogativo
+adjetivo numeral
+adjetivo ponderativo
+adjetivo posesivo
+adjetivo posesivo antepuesto
+adjetivo posesivo pospuesto
+adverbio
+adverbio afirmativo
+adverbio comparativo
+adverbio de cantidad
+adverbio de duda
+adverbio de lugar
+adverbio de modo
+adverbio de modo relativo comparativo
+adverbio de negación
+adverbio de tiempo
+adverbio interrogativo de cantidad
+adverbio interrogativo de lugar
+adverbio interrogativo de tiempo
+adverbio interrogativo y exclamativo de modo
+adverbio relativo de cantidad
+adverbio relativo de lugar
+adverbio relativo de tiempo
+adyacente
+adyacente adverbial
+adyacente antepuesto
+adyacente pospuesto
+adyacentes antepuestos
+adyacentes pospuestos
+artículo determinado
+atributo
+auxiliar
+complemento agente
+complemento circunstancial
+complemento del adjetivo
+complemento del adverbio
+complemento directo
+complemento indirecto
+complemento preposicional
+complemento preposicional del nombre
+conjunción
+conjunción adversativa
+conjunción coordinante
+conjunción coordinante copulativa
+conjunción coordinante disyuntiva
+conjunción modal
+conjunción subordinante adverbial causal
+conjunción subordinante adverbial concesiva
+conjunción subordinante adverbial condicional
+conjunción subordinante adverbial consecutiva
+conjunción subordinante adverbial final
+conjunción subordinante sustantiva
+conjunción subordinante temporal
+contracción
+cuantificador
+dativo
+determinante antepuesto
+determinante indefinido
+determinante pospuesto
+determinantes antepuestos
+determinantes pospuestos
+exclamación
+expresión
+forma verbal personal
+gerundio
+infinitivo
+introductor
+locución conjuntiva coordinante adversativa
+locución conjuntiva coordinante explicativa
+locución conjuntiva subordinante adverbial causal
+locución conjuntiva subordinante adverbial concesiva
+locución conjuntiva subordinante adverbial condicional
+locución conjuntiva subordinante adverbial consecutiva
+locución conjuntiva subordinante adverbial de modo
+locución conjuntiva subordinante adverbial final
+locución conjuntiva subordinante adverbial temporal
+nexo coordinante
+nombre propio
+nombre propio lugar
+nombre propio original
+nombre propio persona
+numeral cardinal
+núcleo nominal
+onomatopeya
+oración
+participio
+predicativo
+preposición
+pronombre de relativo
+pronombre demostrativo
+pronombre indefinido
+pronombre interrogativo
+pronombre latino
+pronombre personal
+pronombre plural
+pronombre posesivo
+proposición
+proposición comparativa
+proposición de gerundio
+proposición de infinitivo
+proposición de participio
+proposición de participio absoluto
+proposición interrogativa
+proposición subordinada adjetiva
+proposición subordinada adverbial
+proposición subordinada comparativa
+proposición subordinada de relativo
+proposición subordinada sustantiva
+proposición subordinada sustantivada
+sintagma adjetivo
+sintagma adverbial
+sintagma nominal
+sintagma nominal heterogéneo
+sintagma nominal homogéneo
+sintagma nominal sustitutivo
+sintagma preposicional
+sujeto
+sustantivo
+verbo
+vocativo
+¡
+¿

@@ -1,0 +1,41 @@
+infinitivo
+género
+género (si es neutro concuerda con el masculino)
+género (si es neutro hereda masculino)
+género del proclítico atributivo
+género del proclítico directo
+género del proclítico indirecto
+género femenino
+género masculino
+género neutro
+gerundio
+masculino singular
+modo
+modo subjuntivo
+neutro singular
+número
+número del proclítico atributivo
+número del proclítico directo
+número del proclítico indirecto
+número plural
+número singular
+participio
+participio masculino singular
+persona
+persona del proclítico atributivo
+persona del proclítico directo
+persona del proclítico indirecto
+preposiciones
+preposición
+preposición NoValida
+preposición con
+preposición de
+primera persona
+pronombres enclíticos
+segunda persona
+tercera persona
+tiempo
+con pronombres enclíticos
+modo imperativo
+tercera persona del singular
+formasimpersonales

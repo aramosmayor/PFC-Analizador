@@ -1,0 +1,709 @@
+Regla N="1" frecuencia="1" sintagma nominal homogéneo -> núcleo nominal  
+Regla N="2" frecuencia="3" núcleo nominal -> sustantivo  
+Regla N="3" frecuencia="2" núcleo nominal -> adverbio de negación  +  núcleo nominal  
+Regla N="4" frecuencia="1" núcleo nominal -> infinitivo  
+Regla N="5" frecuencia="1" núcleo nominal -> adverbio de negación  +  infinitivo  
+Regla N="6" frecuencia="1" sintagma nominal homogéneo -> nombre propio  
+Regla N="7" frecuencia="1" nombre propio -> nombre propio original  
+Regla N="8" frecuencia="1" nombre propio -> nombre propio lugar  
+Regla N="9" frecuencia="1" nombre propio -> nombre propio persona  
+Regla N="10" frecuencia="2" sintagma nominal homogéneo -> adverbio de negación  +  nombre propio  
+Regla N="11" frecuencia="2" sintagma nominal homogéneo -> determinante antepuesto  +  núcleo nominal  
+Regla N="12" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  nombre propio  
+Regla N="13" frecuencia="1" determinante antepuesto -> artículo determinado  
+Regla N="14" frecuencia="1" determinante antepuesto -> adjetivo posesivo antepuesto  
+Regla N="15" frecuencia="1" adjetivo posesivo antepuesto -> adjetivo posesivo  
+Regla N="16" frecuencia="1" determinante antepuesto -> adjetivo demostrativo  
+Regla N="17" frecuencia="1" determinante antepuesto -> adjetivo indefinido antepuesto  
+Regla N="18" frecuencia="1" adjetivo indefinido antepuesto -> adjetivo  
+Regla N="19" frecuencia="1" adjetivo indefinido antepuesto -> adjetivo indefinido  
+Regla N="20" frecuencia="1" determinante antepuesto -> numeral cardinal  
+Regla N="21" frecuencia="2" determinante antepuesto -> adjetivo numeral  
+Regla N="22" frecuencia="1" determinante antepuesto -> adjetivo interrogativo  
+Regla N="23" frecuencia="1" determinante antepuesto -> adjetivo correlativo  
+Regla N="24" frecuencia="1" determinante antepuesto -> adjetivo  
+Regla N="25" frecuencia="1" determinante antepuesto -> adjetivo ponderativo  
+Regla N="26" frecuencia="1" determinante antepuesto -> pronombre de relativo  
+Regla N="27" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  núcleo nominal  
+Regla N="28" frecuencia="4" determinantes antepuestos -> determinante antepuesto  +  conjunción coordinante  +  determinante antepuesto  
+Regla N="29" frecuencia="2" determinantes antepuestos -> artículo determinado  +  adjetivo  
+Regla N="30" frecuencia="2" determinantes antepuestos -> adjetivo indefinido  +  adjetivo  
+Regla N="31" frecuencia="1" determinantes antepuestos -> adjetivo demostrativo  +  adjetivo  
+Regla N="32" frecuencia="2" determinantes antepuestos -> adjetivo posesivo antepuesto  +  adjetivo  
+Regla N="33" frecuencia="1" determinantes antepuestos -> adjetivo interrogativo  +  adjetivo  
+Regla N="34" frecuencia="1" determinantes antepuestos -> adjetivo demostrativo  +  adjetivo posesivo antepuesto  
+Regla N="35" frecuencia="1" determinantes antepuestos -> adjetivo posesivo antepuesto  +  determinante indefinido  
+Regla N="36" frecuencia="6" determinante indefinido -> adjetivo indefinido  
+Regla N="37" frecuencia="2" determinante indefinido -> adjetivo  
+Regla N="38" frecuencia="1" determinantes antepuestos -> adjetivo posesivo antepuesto  +  numeral cardinal  
+Regla N="39" frecuencia="1" determinantes antepuestos -> adjetivo posesivo antepuesto  +  adjetivo numeral  
+Regla N="40" frecuencia="1" determinantes antepuestos -> artículo determinado  +  adjetivo numeral  
+Regla N="41" frecuencia="1" determinantes antepuestos -> artículo determinado  +  numeral cardinal  
+Regla N="42" frecuencia="1" determinantes antepuestos -> adjetivo indefinido  +  adjetivo numeral  
+Regla N="43" frecuencia="1" determinantes antepuestos -> adjetivo indefinido  +  numeral cardinal  
+Regla N="44" frecuencia="5" determinantes antepuestos -> adjetivo indefinido  +  adjetivo indefinido  
+Regla N="45" frecuencia="1" determinantes antepuestos -> adjetivo indefinido  +  adjetivo posesivo antepuesto  
+Regla N="46" frecuencia="1" determinantes antepuestos -> adjetivo demostrativo  +  numeral cardinal  
+Regla N="47" frecuencia="1" determinantes antepuestos -> adjetivo demostrativo  +  adjetivo numeral  
+Regla N="48" frecuencia="2" determinantes antepuestos -> adjetivo demostrativo  +  determinante indefinido  
+Regla N="49" frecuencia="1" determinantes antepuestos -> artículo determinado  +  determinante indefinido  
+Regla N="50" frecuencia="1" determinantes antepuestos -> adjetivo indefinido  +  adjetivo demostrativo  
+Regla N="51" frecuencia="1" determinantes antepuestos -> adjetivo indefinido  +  artículo determinado  
+Regla N="52" frecuencia="2" determinantes antepuestos -> adjetivo interrogativo  +  adjetivo indefinido  
+Regla N="53" frecuencia="1" determinantes antepuestos -> adjetivo interrogativo  +  adjetivo numeral  
+Regla N="54" frecuencia="1" determinantes antepuestos -> adjetivo interrogativo  +  numeral cardinal  
+Regla N="55" frecuencia="1" determinantes antepuestos -> adjetivo ponderativo  +  numeral cardinal  
+Regla N="56" frecuencia="1" determinantes antepuestos -> adjetivo ponderativo  +  adjetivo numeral  
+Regla N="57" frecuencia="1" determinantes antepuestos -> adjetivo ponderativo  +  determinante indefinido  
+Regla N="58" frecuencia="1" determinantes antepuestos -> determinante indefinido  +  adjetivo indefinido  
+Regla N="59" frecuencia="1" determinantes antepuestos -> artículo determinado  +  adjetivo indefinido  +  numeral cardinal  
+Regla N="60" frecuencia="1" determinantes antepuestos -> artículo determinado  +  adjetivo indefinido  +  adjetivo numeral  
+Regla N="61" frecuencia="1" determinantes antepuestos -> adjetivo demostrativo  +  adjetivo indefinido  +  numeral cardinal  
+Regla N="62" frecuencia="1" determinantes antepuestos -> adjetivo demostrativo  +  adjetivo indefinido  +  adjetivo numeral  
+Regla N="63" frecuencia="1" determinantes antepuestos -> adjetivo posesivo antepuesto  +  adjetivo indefinido  +  numeral cardinal  
+Regla N="64" frecuencia="1" determinantes antepuestos -> adjetivo posesivo antepuesto  +  adjetivo indefinido  +  adjetivo numeral  
+Regla N="65" frecuencia="1" determinantes antepuestos -> adjetivo indefinido  +  adjetivo demostrativo  +  adjetivo indefinido  
+Regla N="66" frecuencia="1" determinantes antepuestos -> adjetivo indefinido  +  artículo determinado  +  adjetivo indefinido  
+Regla N="67" frecuencia="1" determinantes antepuestos -> artículo determinado  +  adjetivo numeral  +  numeral cardinal  
+Regla N="68" frecuencia="1" determinantes antepuestos -> artículo determinado  +  numeral cardinal  +  adjetivo numeral  
+Regla N="69" frecuencia="1" sintagma nominal homogéneo -> núcleo nominal  +  determinante pospuesto  
+Regla N="70" frecuencia="1" determinante pospuesto -> adjetivo posesivo pospuesto  
+Regla N="71" frecuencia="1" adjetivo posesivo pospuesto -> adjetivo posesivo  
+Regla N="72" frecuencia="1" determinante pospuesto -> adjetivo indefinido pospuesto  
+Regla N="73" frecuencia="2" adjetivo indefinido pospuesto -> adjetivo indefinido  
+Regla N="74" frecuencia="1" adjetivo indefinido pospuesto -> adjetivo  
+Regla N="75" frecuencia="1" determinante pospuesto -> adjetivo numeral  
+Regla N="76" frecuencia="1" determinante pospuesto -> numeral cardinal  
+Regla N="77" frecuencia="1" sintagma nominal homogéneo -> núcleo nominal  +  determinantes pospuestos  
+Regla N="78" frecuencia="1" determinantes pospuestos -> adjetivo posesivo pospuesto  +  adjetivo indefinido pospuesto  
+Regla N="79" frecuencia="1" determinantes pospuestos -> adjetivo indefinido pospuesto  +  adjetivo posesivo pospuesto  
+Regla N="80" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="81" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  núcleo nominal  +  adjetivo demostrativo  
+Regla N="82" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  núcleo nominal  +  numeral cardinal  
+Regla N="83" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  núcleo nominal  +  adjetivo numeral  
+Regla N="84" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  núcleo nominal  +  adjetivo indefinido  
+Regla N="85" frecuencia="1" sintagma nominal homogéneo -> adjetivo posesivo antepuesto  +  núcleo nominal  +  adjetivo indefinido  
+Regla N="86" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  núcleo nominal  +  adjetivo  
+Regla N="87" frecuencia="2" sintagma nominal homogéneo -> adjetivo indefinido  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="88" frecuencia="2" sintagma nominal homogéneo -> adjetivo indefinido  +  núcleo nominal  +  adjetivo indefinido  
+Regla N="89" frecuencia="1" sintagma nominal homogéneo -> adjetivo indefinido antepuesto  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="90" frecuencia="1" sintagma nominal homogéneo -> adjetivo indefinido  +  núcleo nominal  +  adjetivo numeral  
+Regla N="91" frecuencia="1" sintagma nominal homogéneo -> adjetivo interrogativo  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="92" frecuencia="1" sintagma nominal homogéneo -> adjetivo interrogativo  +  núcleo nominal  +  adjetivo indefinido  
+Regla N="93" frecuencia="1" sintagma nominal homogéneo -> adjetivo demostrativo  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="94" frecuencia="1" sintagma nominal homogéneo -> adjetivo demostrativo  +  núcleo nominal  +  adjetivo indefinido  
+Regla N="95" frecuencia="1" sintagma nominal homogéneo -> adjetivo demostrativo  +  núcleo nominal  +  numeral cardinal  
+Regla N="96" frecuencia="1" sintagma nominal homogéneo -> adjetivo demostrativo  +  núcleo nominal  +  adjetivo numeral  
+Regla N="97" frecuencia="1" sintagma nominal homogéneo -> adjetivo demostrativo  +  núcleo nominal  +  adjetivo  
+Regla N="98" frecuencia="1" sintagma nominal homogéneo -> adjetivo posesivo antepuesto  +  núcleo nominal  +  adjetivo  
+Regla N="99" frecuencia="1" sintagma nominal homogéneo -> adjetivo posesivo antepuesto  +  núcleo nominal  +  numeral cardinal  
+Regla N="100" frecuencia="1" sintagma nominal homogéneo -> adjetivo posesivo antepuesto  +  núcleo nominal  +  adjetivo numeral  
+Regla N="101" frecuencia="1" sintagma nominal homogéneo -> adjetivo ponderativo  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="102" frecuencia="1" sintagma nominal homogéneo -> numeral cardinal  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="103" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  núcleo nominal  +  determinantes pospuestos  
+Regla N="104" frecuencia="1" sintagma nominal homogéneo -> adjetivo indefinido  +  núcleo nominal  +  determinantes pospuestos  
+Regla N="105" frecuencia="1" sintagma nominal homogéneo -> determinante indefinido  +  núcleo nominal  +  determinantes pospuestos  
+Regla N="106" frecuencia="1" sintagma nominal homogéneo -> adjetivo demostrativo  +  núcleo nominal  +  determinantes pospuestos  
+Regla N="107" frecuencia="3" determinantes pospuestos -> adjetivo numeral  +  adjetivo posesivo pospuesto  
+Regla N="108" frecuencia="2" determinantes pospuestos -> numeral cardinal  +  adjetivo posesivo pospuesto  
+Regla N="109" frecuencia="1" determinantes pospuestos -> adjetivo demostrativo  +  adjetivo posesivo pospuesto  
+Regla N="110" frecuencia="1" determinantes pospuestos -> adjetivo posesivo pospuesto  +  adjetivo indefinido  
+Regla N="111" frecuencia="1" determinantes pospuestos -> adjetivo indefinido  +  adjetivo posesivo pospuesto  
+Regla N="112" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="113" frecuencia="1" sintagma nominal homogéneo -> artículo determinado  +  adjetivo indefinido  +  núcleo nominal  +  adjetivo indefinido  
+Regla N="114" frecuencia="1" sintagma nominal homogéneo -> núcleo nominal  +  adyacente pospuesto  
+Regla N="115" frecuencia="1" adyacente pospuesto -> adjetivo  
+Regla N="116" frecuencia="1" adyacente pospuesto -> adverbio de negación  +  adjetivo  
+Regla N="117" frecuencia="3" adyacente pospuesto -> sustantivo  
+Regla N="118" frecuencia="1" adyacente pospuesto -> nombre propio  
+Regla N="119" frecuencia="1" adyacente pospuesto -> sintagma adjetivo  
+Regla N="120" frecuencia="1" adyacente pospuesto -> adverbio de modo  
+Regla N="121" frecuencia="2" adyacente pospuesto -> sintagma preposicional  
+Regla N="122" frecuencia="1" adyacente pospuesto -> proposición subordinada adjetiva  
+Regla N="123" frecuencia="1" adyacente pospuesto -> gerundio  
+Regla N="124" frecuencia="5" adyacente pospuesto -> adyacente pospuesto  +  conjunción coordinante  +  adyacente pospuesto  
+Regla N="125" frecuencia="1" sintagma nominal homogéneo -> núcleo nominal  +  adyacentes pospuestos  
+Regla N="126" frecuencia="1" adyacentes pospuestos -> adverbio de negación  +  adyacentes pospuestos  
+Regla N="127" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adjetivo  
+Regla N="128" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adverbio de negación  +  adjetivo  
+Regla N="129" frecuencia="1" adyacentes pospuestos -> adjetivo  +  sintagma adjetivo  
+Regla N="130" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adverbio de modo  
+Regla N="131" frecuencia="2" adyacentes pospuestos -> adjetivo  +  sintagma preposicional  
+Regla N="132" frecuencia="1" adyacentes pospuestos -> adjetivo  +  proposición subordinada adjetiva  
+Regla N="133" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adjetivo  
+Regla N="134" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adverbio de negación  +  adjetivo  
+Regla N="135" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  sintagma adjetivo  
+Regla N="136" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adverbio de modo  
+Regla N="137" frecuencia="2" adyacentes pospuestos -> sintagma preposicional  +  sintagma preposicional  
+Regla N="138" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  proposición subordinada adjetiva  
+Regla N="139" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  adjetivo  
+Regla N="140" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  adverbio de negación  +  adjetivo  
+Regla N="141" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  sintagma adjetivo  
+Regla N="142" frecuencia="2" adyacentes pospuestos -> sintagma adjetivo  +  sintagma preposicional  
+Regla N="143" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  proposición subordinada adjetiva  
+Regla N="144" frecuencia="1" adyacentes pospuestos -> adjetivo  +  sintagma preposicional  +  adjetivo  
+Regla N="145" frecuencia="1" adyacentes pospuestos -> adjetivo  +  sintagma preposicional  +  adverbio de negación  +  adjetivo  
+Regla N="146" frecuencia="1" adyacentes pospuestos -> adjetivo  +  sintagma preposicional  +  sintagma adjetivo  
+Regla N="147" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  sintagma preposicional  +  adjetivo  
+Regla N="148" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  sintagma preposicional  +  adverbio de negación  +  adjetivo  
+Regla N="149" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  sintagma preposicional  +  sintagma adjetivo  
+Regla N="150" frecuencia="2" adyacentes pospuestos -> adjetivo  +  sintagma preposicional  +  sintagma preposicional  
+Regla N="151" frecuencia="2" adyacentes pospuestos -> sintagma adjetivo  +  sintagma preposicional  +  sintagma preposicional  
+Regla N="152" frecuencia="1" adyacentes pospuestos -> adjetivo  +  sintagma preposicional  +  proposición subordinada adjetiva  
+Regla N="153" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  sintagma preposicional  +  proposición subordinada adjetiva  
+Regla N="154" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adjetivo  +  adjetivo  
+Regla N="155" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adverbio de negación  +  adjetivo  +  adjetivo  
+Regla N="156" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adjetivo  +  adverbio de negación  +  adjetivo  
+Regla N="157" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adverbio de negación  +  adjetivo  +  adverbio de negación  +  adjetivo  
+Regla N="158" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adjetivo  +  sintagma adjetivo  
+Regla N="159" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adverbio de negación  +  adjetivo  +  sintagma adjetivo  
+Regla N="160" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  sintagma adjetivo  +  adjetivo  
+Regla N="161" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  sintagma adjetivo  +  adverbio de negación  +  adjetivo  
+Regla N="162" frecuencia="2" adyacentes pospuestos -> sintagma preposicional  +  adjetivo  +  sintagma preposicional  
+Regla N="163" frecuencia="2" adyacentes pospuestos -> sintagma preposicional  +  adverbio de negación  +  adjetivo  +  sintagma preposicional  
+Regla N="164" frecuencia="2" adyacentes pospuestos -> sintagma preposicional  +  sintagma adjetivo  +  sintagma preposicional  
+Regla N="165" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adjetivo  +  proposición subordinada adjetiva  
+Regla N="166" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  adverbio de negación  +  adjetivo  +  proposición subordinada adjetiva  
+Regla N="167" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  sintagma adjetivo  +  proposición subordinada adjetiva  
+Regla N="168" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adjetivo  +  adjetivo  
+Regla N="169" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adjetivo  +  adverbio de negación  +  adjetivo  
+Regla N="170" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adjetivo  +  sintagma adjetivo  
+Regla N="171" frecuencia="2" adyacentes pospuestos -> adjetivo  +  adjetivo  +  sintagma preposicional  
+Regla N="172" frecuencia="2" adyacentes pospuestos -> adjetivo  +  adverbio de negación  +  adjetivo  +  sintagma preposicional  
+Regla N="173" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adjetivo  +  proposición subordinada adjetiva  
+Regla N="174" frecuencia="1" adyacentes pospuestos -> adjetivo  +  adverbio de negación  +  adjetivo  +  proposición subordinada adjetiva  
+Regla N="175" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  adjetivo  +  proposición subordinada adjetiva  
+Regla N="176" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  adverbio de negación  +  adjetivo  +  proposición subordinada adjetiva  
+Regla N="177" frecuencia="1" adyacentes pospuestos -> adjetivo  +  sintagma adjetivo  +  proposición subordinada adjetiva  
+Regla N="178" frecuencia="1" adyacentes pospuestos -> sintagma adjetivo  +  sintagma adjetivo  +  proposición subordinada adjetiva  
+Regla N="179" frecuencia="1" adyacentes pospuestos -> sintagma preposicional  +  sintagma preposicional  +  proposición subordinada adjetiva  
+Regla N="180" frecuencia="1" sintagma nominal homogéneo -> sintagma nominal homogéneo  +  Fin de proposición  +  sintagma nominal homogéneo  +  Fin de proposición  
+Regla N="181" frecuencia="1" sintagma nominal homogéneo -> sintagma nominal homogéneo  +  sintagma nominal homogéneo  
+Regla N="182" frecuencia="1" sintagma nominal homogéneo -> adyacente  +  núcleo nominal  
+Regla N="183" frecuencia="3" adyacente -> adjetivo  
+Regla N="184" frecuencia="4" adyacente -> adverbio de negación  +  adjetivo  
+Regla N="185" frecuencia="1" adyacente -> sintagma adjetivo  
+Regla N="186" frecuencia="3" adyacente antepuesto -> adjetivo  
+Regla N="187" frecuencia="6" adyacente antepuesto -> adverbio de negación  +  adjetivo  
+Regla N="188" frecuencia="1" adyacente antepuesto -> adyacente antepuesto  +  conjunción coordinante  +  adyacente antepuesto  
+Regla N="189" frecuencia="1" sintagma nominal homogéneo -> adyacentes antepuestos  +  núcleo nominal  
+Regla N="190" frecuencia="1" adyacentes antepuestos -> adyacente antepuesto  +  adyacente antepuesto  
+Regla N="191" frecuencia="1" sintagma nominal homogéneo -> adyacente adverbial  +  sintagma nominal homogéneo  
+Regla N="192" frecuencia="1" adyacente adverbial -> adverbio de modo  
+Regla N="193" frecuencia="1" adyacente adverbial -> adverbio de cantidad  
+Regla N="194" frecuencia="1" sintagma nominal homogéneo -> adyacente  +  núcleo nominal  +  adjetivo posesivo pospuesto  
+Regla N="195" frecuencia="1" sintagma nominal homogéneo -> adyacente  +  núcleo nominal  +  determinantes pospuestos  
+Regla N="196" frecuencia="1" sintagma nominal homogéneo -> núcleo nominal  +  adyacente  +  adjetivo posesivo pospuesto  
+Regla N="197" frecuencia="1" sintagma nominal homogéneo -> núcleo nominal  +  adjetivo posesivo pospuesto  +  adyacente pospuesto  
+Regla N="198" frecuencia="1" sintagma nominal homogéneo -> adyacente antepuesto  +  núcleo nominal  +  adyacente pospuesto  
+Regla N="199" frecuencia="1" sintagma nominal homogéneo -> adyacente antepuesto  +  núcleo nominal  +  adverbio de negación  +  adyacente pospuesto  
+Regla N="200" frecuencia="1" sintagma nominal homogéneo -> adyacente antepuesto  +  núcleo nominal  +  adyacentes pospuestos  
+Regla N="201" frecuencia="1" sintagma nominal homogéneo -> adyacente antepuesto  +  núcleo nominal  +  adyacente  +  adjetivo posesivo pospuesto  
+Regla N="202" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacente  +  núcleo nominal  
+Regla N="203" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  adyacente antepuesto  +  núcleo nominal  
+Regla N="204" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacentes antepuestos  +  núcleo nominal  
+Regla N="205" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacente antepuesto  +  numeral cardinal  +  núcleo nominal  
+Regla N="206" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacente antepuesto  +  adjetivo numeral  +  núcleo nominal  
+Regla N="207" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  núcleo nominal  +  adyacente pospuesto  
+Regla N="208" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  núcleo nominal  +  adyacentes pospuestos  
+Regla N="209" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  núcleo nominal  +  adyacente pospuesto  
+Regla N="210" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  núcleo nominal  +  adyacentes pospuestos  
+Regla N="211" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacente antepuesto  +  núcleo nominal  +  determinante pospuesto  
+Regla N="212" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  núcleo nominal  +  adyacente  +  adjetivo posesivo pospuesto  
+Regla N="213" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  núcleo nominal  +  adjetivo posesivo pospuesto  +  adyacente pospuesto  
+Regla N="214" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  núcleo nominal  +  adjetivo indefinido  +  adyacente pospuesto  
+Regla N="215" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacente  +  núcleo nominal  +  adyacente pospuesto  
+Regla N="216" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacente  +  núcleo nominal  +  adyacentes pospuestos  
+Regla N="217" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  adyacente antepuesto  +  núcleo nominal  +  adyacente pospuesto  
+Regla N="218" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  adyacente antepuesto  +  núcleo nominal  +  adyacentes pospuestos  
+Regla N="219" frecuencia="1" sintagma nominal homogéneo -> determinante antepuesto  +  adyacente antepuesto  +  núcleo nominal  +  adyacente  +  adjetivo posesivo pospuesto  
+Regla N="220" frecuencia="1" sintagma nominal homogéneo -> determinantes antepuestos  +  adyacente antepuesto  +  núcleo nominal  +  adyacente  +  adjetivo posesivo pospuesto  
+Regla N="221" frecuencia="1" sintagma nominal homogéneo -> adjetivo indefinido  +  sintagma nominal homogéneo  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="222" frecuencia="1" sintagma nominal homogéneo -> adjetivo indefinido  +  sintagma nominal homogéneo  +  conjunción subordinante sustantiva  +  proposición comparativa  +  Fin de proposición  
+Regla N="223" frecuencia="1" sintagma nominal homogéneo -> proposición subordinada comparativa  
+Regla N="224" frecuencia="2" sintagma nominal homogéneo -> adverbio de negación  +  sintagma nominal homogéneo  
+Regla N="225" frecuencia="6" sintagma nominal sustitutivo -> pronombre personal  
+Regla N="226" frecuencia="1" sintagma nominal sustitutivo -> pronombre demostrativo  
+Regla N="227" frecuencia="1" sintagma nominal sustitutivo -> pronombre posesivo  
+Regla N="228" frecuencia="2" sintagma nominal sustitutivo -> pronombre indefinido  
+Regla N="229" frecuencia="3" sintagma nominal sustitutivo -> pronombre interrogativo  
+Regla N="230" frecuencia="2" sintagma nominal sustitutivo -> pronombre de relativo  
+Regla N="231" frecuencia="1" sintagma nominal sustitutivo -> pronombre plural  
+Regla N="232" frecuencia="1" sintagma nominal sustitutivo -> numeral cardinal  
+Regla N="233" frecuencia="5" sintagma nominal sustitutivo -> pronombre personal  +  adjetivo  
+Regla N="234" frecuencia="1" sintagma nominal sustitutivo -> adjetivo indefinido  +  pronombre personal  
+Regla N="235" frecuencia="1" sintagma nominal sustitutivo -> pronombre personal  +  numeral cardinal  
+Regla N="236" frecuencia="2" sintagma nominal sustitutivo -> pronombre personal  +  Fin de proposición  +  proposición subordinada adjetiva  +  Fin de proposición  
+Regla N="237" frecuencia="1" sintagma nominal sustitutivo -> pronombre personal  +  Fin de proposición  +  proposición subordinada sustantivada  +  Fin de proposición  
+Regla N="238" frecuencia="2" sintagma nominal sustitutivo -> pronombre indefinido  +  adyacente  
+Regla N="239" frecuencia="2" sintagma nominal sustitutivo -> pronombre indefinido  +  sintagma preposicional  
+Regla N="240" frecuencia="4" sintagma nominal sustitutivo -> pronombre indefinido  +  proposición subordinada adjetiva  
+Regla N="241" frecuencia="1" sintagma nominal sustitutivo -> adjetivo indefinido  +  pronombre demostrativo  
+Regla N="242" frecuencia="1" sintagma nominal sustitutivo -> adverbio de modo  +  pronombre demostrativo  
+Regla N="243" frecuencia="2" sintagma nominal sustitutivo -> pronombre demostrativo  +  adyacente  
+Regla N="244" frecuencia="2" sintagma nominal sustitutivo -> pronombre demostrativo  +  sintagma preposicional  
+Regla N="245" frecuencia="2" sintagma nominal sustitutivo -> pronombre demostrativo  +  proposición subordinada adjetiva  
+Regla N="246" frecuencia="3" sintagma nominal sustitutivo -> pronombre interrogativo  +  sintagma preposicional  
+Regla N="247" frecuencia="3" sintagma nominal sustitutivo -> pronombre interrogativo  +  proposición subordinada adjetiva  
+Regla N="248" frecuencia="1" sintagma nominal sustitutivo -> numeral cardinal  +  sintagma preposicional  
+Regla N="249" frecuencia="1" sintagma nominal sustitutivo -> numeral cardinal  +  proposición subordinada adjetiva  
+Regla N="250" frecuencia="2" sintagma nominal sustitutivo -> artículo determinado  +  pronombre de relativo  
+Regla N="251" frecuencia="1" sintagma nominal sustitutivo -> adjetivo ponderativo  +  pronombre de relativo  
+Regla N="252" frecuencia="2" sintagma nominal sustitutivo -> adjetivo ponderativo  +  numeral cardinal  
+Regla N="253" frecuencia="1" sintagma nominal sustitutivo -> pronombre indefinido  +  artículo determinado  +  pronombre de relativo  
+Regla N="254" frecuencia="1" sintagma nominal sustitutivo -> pronombre personal  +  sintagma nominal homogéneo  
+Regla N="255" frecuencia="1" sintagma nominal sustitutivo -> pronombre personal  +  Fin de proposición  +  sintagma nominal homogéneo  
+Regla N="256" frecuencia="1" sintagma nominal sustitutivo -> adverbio de cantidad  +  pronombre indefinido  
+Regla N="257" frecuencia="1" sintagma nominal sustitutivo -> adverbio de modo  +  pronombre indefinido  
+Regla N="258" frecuencia="1" sintagma nominal sustitutivo -> adjetivo indefinido  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="259" frecuencia="1" sintagma nominal sustitutivo -> adjetivo indefinido  +  conjunción subordinante sustantiva  +  proposición comparativa  +  Fin de proposición  
+Regla N="260" frecuencia="1" sintagma nominal sustitutivo -> proposición subordinada comparativa  
+Regla N="261" frecuencia="1" sintagma nominal sustitutivo -> pronombre latino  
+Regla N="262" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  pronombre posesivo  
+Regla N="263" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  adjetivo  
+Regla N="264" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  adjetivo indefinido  
+Regla N="265" frecuencia="3" sintagma nominal sustitutivo -> determinante antepuesto  +  numeral cardinal  
+Regla N="266" frecuencia="1" sintagma nominal sustitutivo -> determinante antepuesto  +  adjetivo numeral  
+Regla N="267" frecuencia="1" sintagma nominal sustitutivo -> determinantes antepuestos  
+Regla N="268" frecuencia="2" sintagma nominal sustitutivo -> artículo determinado  +  adyacente  
+Regla N="269" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  adjetivo  +  adyacente pospuesto  
+Regla N="270" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  adjetivo  +  adyacente pospuesto  +  adyacente pospuesto  
+Regla N="271" frecuencia="2" sintagma nominal sustitutivo -> sintagma nominal sustitutivo  +  sintagma preposicional  
+Regla N="272" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  sintagma preposicional  
+Regla N="273" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  adyacente  +  pronombre de relativo  +  proposición  
+Regla N="274" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  sintagma adverbial  +  pronombre de relativo  +  proposición  
+Regla N="275" frecuencia="1" sintagma nominal sustitutivo -> adjetivo indefinido  +  sintagma nominal sustitutivo  
+Regla N="276" frecuencia="1" sintagma nominal sustitutivo -> artículo determinado  +  proposición subordinada sustantiva  
+Regla N="277" frecuencia="1" sintagma nominal sustitutivo -> proposición subordinada sustantivada  
+Regla N="278" frecuencia="2" sintagma nominal sustitutivo -> adverbio de negación  +  sintagma nominal sustitutivo  
+Regla N="279" frecuencia="2" conjunción coordinante -> conjunción coordinante copulativa  
+Regla N="280" frecuencia="1" conjunción coordinante -> conjunción coordinante disyuntiva  
+Regla N="281" frecuencia="12" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  conjunción coordinante  +  sintagma nominal homogéneo  
+Regla N="282" frecuencia="4" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  Fin de proposición  +  conjunción coordinante  +  sintagma nominal homogéneo  
+Regla N="283" frecuencia="3" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  conjunción coordinante  +  sintagma nominal sustitutivo  
+Regla N="284" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  Fin de proposición  +  conjunción coordinante  +  sintagma nominal sustitutivo  
+Regla N="285" frecuencia="3" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  conjunción coordinante  +  sintagma nominal homogéneo  
+Regla N="286" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  Fin de proposición  +  conjunción coordinante  +  sintagma nominal homogéneo  
+Regla N="287" frecuencia="3" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  conjunción coordinante  +  sintagma nominal sustitutivo  
+Regla N="288" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  Fin de proposición  +  conjunción coordinante  +  sintagma nominal sustitutivo  
+Regla N="289" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  Fin de proposición  +  Fin de proposición  
+Regla N="290" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  Fin de proposición  +  sustantivo  +  Fin de oración  
+Regla N="291" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  Fin de proposición  +  sustantivo  
+Regla N="292" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  Fin de proposición  +  Fin de proposición  
+Regla N="293" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  Fin de proposición  +  sustantivo  +  Fin de oración  
+Regla N="294" frecuencia="1" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  Fin de proposición  +  sustantivo  
+Regla N="295" frecuencia="8" sintagma nominal heterogéneo -> sintagma nominal homogéneo  +  Fin de proposición  +  sintagma nominal heterogéneo  
+Regla N="296" frecuencia="2" sintagma nominal heterogéneo -> sintagma nominal sustitutivo  +  Fin de proposición  +  sintagma nominal heterogéneo  
+Regla N="297" frecuencia="4" sintagma nominal -> sintagma nominal homogéneo  
+Regla N="298" frecuencia="1" sintagma nominal -> sintagma nominal sustitutivo  
+Regla N="299" frecuencia="3" sintagma nominal -> sintagma nominal heterogéneo  
+Regla N="300" frecuencia="1" sintagma nominal -> sintagma nominal heterogéneo  +  adyacente pospuesto  
+Regla N="301" frecuencia="1" complemento preposicional del nombre -> sintagma preposicional  
+Regla N="302" frecuencia="1" sintagma preposicional -> pronombre personal  
+Regla N="303" frecuencia="1" sintagma preposicional -> pronombre personal  +  adjetivo  
+Regla N="304" frecuencia="4" sintagma preposicional -> preposición  +  sintagma nominal  
+Regla N="305" frecuencia="1" sintagma preposicional -> preposición  +  adjetivo  
+Regla N="306" frecuencia="1" sintagma preposicional -> preposición  +  sintagma adjetivo  
+Regla N="307" frecuencia="1" sintagma preposicional -> preposición  +  adverbio de negación  +  adjetivo  
+Regla N="308" frecuencia="2" sintagma preposicional -> preposición  +  sintagma adverbial  
+Regla N="309" frecuencia="2" sintagma preposicional -> preposición  +  proposición subordinada sustantiva  
+Regla N="310" frecuencia="1" sintagma preposicional -> preposición  +  proposición subordinada adverbial  
+Regla N="311" frecuencia="1" sintagma preposicional -> preposición  +  proposición  
+Regla N="312" frecuencia="2" sintagma preposicional -> preposición  +  sintagma preposicional  
+Regla N="313" frecuencia="2" sintagma preposicional -> adverbio de negación  +  sintagma preposicional  
+Regla N="314" frecuencia="6" sintagma preposicional -> sintagma preposicional  +  conjunción coordinante  +  sintagma preposicional  
+Regla N="315" frecuencia="6" sintagma preposicional -> sintagma preposicional  +  Fin de proposición  +  sintagma preposicional  
+Regla N="316" frecuencia="1" sintagma adverbial -> adverbio  
+Regla N="317" frecuencia="3" sintagma adverbial -> adverbio de modo  
+Regla N="318" frecuencia="1" sintagma adverbial -> adverbio afirmativo  
+Regla N="319" frecuencia="2" sintagma adverbial -> adverbio de cantidad  
+Regla N="320" frecuencia="1" sintagma adverbial -> adverbio comparativo  
+Regla N="321" frecuencia="1" sintagma adverbial -> adverbio de duda  
+Regla N="322" frecuencia="1" sintagma adverbial -> adverbio interrogativo de cantidad  
+Regla N="323" frecuencia="1" sintagma adverbial -> adverbio interrogativo de lugar  
+Regla N="324" frecuencia="1" sintagma adverbial -> adverbio interrogativo y exclamativo de modo  
+Regla N="325" frecuencia="1" sintagma adverbial -> adverbio interrogativo de tiempo  
+Regla N="326" frecuencia="1" sintagma adverbial -> adverbio de lugar  
+Regla N="327" frecuencia="1" sintagma adverbial -> adverbio de modo relativo comparativo  
+Regla N="328" frecuencia="1" sintagma adverbial -> adverbio relativo de cantidad  
+Regla N="329" frecuencia="1" sintagma adverbial -> adverbio relativo de lugar  
+Regla N="330" frecuencia="1" sintagma adverbial -> adverbio relativo de tiempo  
+Regla N="331" frecuencia="1" sintagma adverbial -> adverbio de negación  
+Regla N="332" frecuencia="1" sintagma adverbial -> adverbio de tiempo  
+Regla N="333" frecuencia="1" sintagma adverbial -> sintagma nominal homogéneo  +  adverbio de lugar  
+Regla N="334" frecuencia="1" sintagma adverbial -> sintagma nominal homogéneo  +  adverbio comparativo  +  adverbio de lugar  
+Regla N="335" frecuencia="1" sintagma adverbial -> adverbio de cantidad  +  sintagma nominal homogéneo  +  adverbio comparativo  +  adverbio de lugar  
+Regla N="336" frecuencia="1" sintagma adverbial -> adverbio de modo  +  sintagma nominal homogéneo  +  adverbio comparativo  +  adverbio de lugar  
+Regla N="337" frecuencia="1" sintagma adverbial -> sintagma nominal homogéneo  +  adverbio de tiempo  
+Regla N="338" frecuencia="1" sintagma adverbial -> sintagma nominal homogéneo  +  adverbio comparativo  +  adverbio de tiempo  
+Regla N="339" frecuencia="1" sintagma adverbial -> adverbio de cantidad  +  sintagma nominal homogéneo  +  adverbio comparativo  +  adverbio de tiempo  
+Regla N="340" frecuencia="1" sintagma adverbial -> adverbio de modo  +  sintagma nominal homogéneo  +  adverbio comparativo  +  adverbio de tiempo  
+Regla N="341" frecuencia="3" sintagma adverbial -> cuantificador  +  sintagma adverbial  
+Regla N="342" frecuencia="3" cuantificador -> adverbio de cantidad  
+Regla N="343" frecuencia="3" cuantificador -> adverbio de modo  
+Regla N="344" frecuencia="1" cuantificador -> adverbio comparativo  
+Regla N="345" frecuencia="2" cuantificador -> adverbio de cantidad  +  adverbio comparativo  
+Regla N="346" frecuencia="1" cuantificador -> adjetivo indefinido  +  adverbio de cantidad  +  adverbio comparativo  
+Regla N="347" frecuencia="1" cuantificador -> adjetivo indefinido  +  adverbio de cantidad  
+Regla N="348" frecuencia="1" cuantificador -> adverbio de negación  
+Regla N="349" frecuencia="3" cuantificador -> adverbio de cantidad  +  adverbio de cantidad  
+Regla N="350" frecuencia="1" cuantificador -> adverbio de modo  +  adverbio de cantidad  
+Regla N="351" frecuencia="1" cuantificador -> adverbio de cantidad  +  adverbio de negación  
+Regla N="352" frecuencia="1" cuantificador -> adverbio comparativo  +  adverbio de modo  
+Regla N="353" frecuencia="2" sintagma adverbial -> adverbio de lugar  +  complemento del adverbio  
+Regla N="354" frecuencia="2" sintagma adverbial -> adverbio de tiempo  +  complemento del adverbio  
+Regla N="355" frecuencia="1" sintagma adverbial -> adverbio comparativo  +  complemento del adverbio  
+Regla N="356" frecuencia="2" sintagma adverbial -> adverbio de modo  +  complemento del adverbio  
+Regla N="357" frecuencia="2" sintagma adverbial -> adverbio de cantidad  +  complemento del adverbio  
+Regla N="358" frecuencia="1" sintagma adverbial -> adverbio de modo relativo comparativo  +  complemento del adverbio  
+Regla N="359" frecuencia="1" sintagma adverbial -> adverbio relativo de cantidad  +  complemento del adverbio  
+Regla N="360" frecuencia="1" sintagma adverbial -> adverbio de duda  +  complemento del adverbio  
+Regla N="361" frecuencia="1" sintagma adverbial -> adverbio de duda  +  conjunción subordinante sustantiva  +  proposición subordinada sustantiva  
+Regla N="362" frecuencia="1" sintagma adverbial -> adverbio de tiempo  +  conjunción subordinante sustantiva  +  proposición subordinada sustantiva  
+Regla N="363" frecuencia="1" proposición subordinada de relativo -> conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="364" frecuencia="1" proposición subordinada de relativo -> conjunción subordinante sustantiva  +  proposición comparativa  +  Fin de proposición  
+Regla N="365" frecuencia="1" sintagma adverbial -> adverbio de tiempo  +  proposición subordinada de relativo  
+Regla N="366" frecuencia="1" sintagma adverbial -> adverbio de modo  +  proposición subordinada de relativo  
+Regla N="367" frecuencia="1" sintagma adverbial -> adverbio afirmativo  +  proposición subordinada de relativo  
+Regla N="368" frecuencia="1" sintagma adverbial -> adverbio de tiempo  +  Fin de proposición  +  proposición subordinada de relativo  
+Regla N="369" frecuencia="2" sintagma adverbial -> sintagma adverbial  +  sintagma adverbial  
+Regla N="370" frecuencia="1" sintagma adverbial -> sintagma adverbial  +  adjetivo  
+Regla N="371" frecuencia="1" sintagma adverbial -> adverbio de cantidad  +  sintagma adverbial  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="372" frecuencia="1" sintagma adverbial -> adverbio de cantidad  +  sintagma adverbial  +  conjunción subordinante sustantiva  +  proposición comparativa  +  Fin de proposición  
+Regla N="373" frecuencia="1" sintagma adverbial -> proposición subordinada comparativa  
+Regla N="374" frecuencia="1" sintagma adverbial -> adverbio de negación  +  sintagma adverbial  
+Regla N="375" frecuencia="11" sintagma adverbial -> sintagma adverbial  +  conjunción coordinante  +  sintagma adverbial  
+Regla N="376" frecuencia="1" sintagma adverbial -> adverbio de modo relativo comparativo  +  sintagma nominal  
+Regla N="377" frecuencia="1" complemento del adverbio -> sintagma preposicional  
+Regla N="378" frecuencia="1" proposición subordinada adverbial -> introductor  +  proposición  
+Regla N="379" frecuencia="3" proposición subordinada adverbial -> introductor  +  proposición  +  Fin de proposición  
+Regla N="380" frecuencia="1" proposición subordinada adverbial -> Fin de proposición  +  introductor  +  proposición  +  Fin de proposición  
+Regla N="381" frecuencia="1" introductor -> sintagma adverbial  
+Regla N="382" frecuencia="1" introductor -> sintagma preposicional  
+Regla N="383" frecuencia="1" introductor -> adverbio de lugar  +  conjunción subordinante sustantiva  
+Regla N="384" frecuencia="1" introductor -> adverbio de tiempo  
+Regla N="385" frecuencia="1" introductor -> conjunción subordinante temporal  
+Regla N="386" frecuencia="1" introductor -> conjunción  
+Regla N="387" frecuencia="1" introductor -> locución conjuntiva subordinante adverbial temporal  
+Regla N="388" frecuencia="1" introductor -> conjunción modal  
+Regla N="389" frecuencia="2" introductor -> adverbio de modo  
+Regla N="390" frecuencia="1" introductor -> locución conjuntiva subordinante adverbial de modo  
+Regla N="391" frecuencia="1" introductor -> conjunción subordinante adverbial causal  
+Regla N="392" frecuencia="1" introductor -> locución conjuntiva subordinante adverbial causal  
+Regla N="393" frecuencia="2" introductor -> locución conjuntiva subordinante adverbial final  
+Regla N="394" frecuencia="1" introductor -> conjunción subordinante adverbial condicional  
+Regla N="395" frecuencia="2" introductor -> locución conjuntiva subordinante adverbial condicional  
+Regla N="396" frecuencia="1" introductor -> conjunción subordinante adverbial concesiva  
+Regla N="397" frecuencia="2" introductor -> locución conjuntiva subordinante adverbial concesiva  
+Regla N="398" frecuencia="1" introductor -> conjunción subordinante adverbial consecutiva  
+Regla N="399" frecuencia="1" introductor -> adverbio de cantidad  +  conjunción subordinante sustantiva  
+Regla N="400" frecuencia="2" proposición subordinada adverbial -> introductor  +  proposición subordinada sustantiva  
+Regla N="401" frecuencia="3" proposición subordinada adverbial -> introductor  +  proposición subordinada sustantiva  +  Fin de proposición  
+Regla N="402" frecuencia="1" introductor -> preposición  +  artículo determinado  
+Regla N="403" frecuencia="2" introductor -> preposición  
+Regla N="404" frecuencia="1" proposición subordinada adverbial -> Inicio de proposición  +  proposición de gerundio  
+Regla N="405" frecuencia="1" proposición subordinada adverbial -> proposición de gerundio  +  Fin de proposición  
+Regla N="406" frecuencia="1" proposición subordinada adverbial -> Inicio de proposición  +  introductor  +  proposición de gerundio  +  Fin de proposición  
+Regla N="407" frecuencia="1" introductor -> conjunción subordinante adverbial final  
+Regla N="408" frecuencia="1" proposición subordinada adverbial -> Inicio de proposición  +  introductor  +  proposición subordinada sustantiva  +  Fin de proposición  
+Regla N="409" frecuencia="1" proposición subordinada adverbial -> adverbio de cantidad  +  sintagma adverbial  +  conjunción subordinante sustantiva  +  proposición  
+Regla N="410" frecuencia="1" proposición subordinada adverbial -> adverbio de negación  +  proposición subordinada adverbial  +  Fin de proposición  
+Regla N="411" frecuencia="13" proposición subordinada adverbial -> proposición subordinada adverbial  +  conjunción coordinante  +  proposición subordinada adverbial  
+Regla N="412" frecuencia="2" proposición subordinada comparativa -> adverbio comparativo  +  conjunción subordinante sustantiva  +  sintagma nominal  
+Regla N="413" frecuencia="2" proposición subordinada comparativa -> adverbio comparativo  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="414" frecuencia="2" proposición subordinada comparativa -> adverbio comparativo  +  preposición  +  artículo determinado  +  pronombre de relativo  +  proposición  +  Fin de proposición  
+Regla N="415" frecuencia="2" proposición subordinada comparativa -> adverbio comparativo  +  conjunción subordinante sustantiva  +  proposición subordinada sustantiva  
+Regla N="416" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  sintagma nominal  +  conjunción subordinante sustantiva  +  sintagma nominal  
+Regla N="417" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  sintagma nominal  +  conjunción subordinante sustantiva  +  adjetivo  
+Regla N="418" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  sintagma nominal  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="419" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  sintagma nominal  +  preposición  +  artículo determinado  +  pronombre de relativo  +  proposición  +  Fin de proposición  
+Regla N="420" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  adjetivo  +  conjunción subordinante sustantiva  +  sintagma nominal  
+Regla N="421" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  adjetivo  +  conjunción subordinante sustantiva  +  adjetivo  
+Regla N="422" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  adjetivo  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="423" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  adjetivo  +  preposición  +  artículo determinado  +  pronombre de relativo  +  proposición  +  Fin de proposición  
+Regla N="424" frecuencia="2" proposición subordinada comparativa -> adverbio comparativo  +  sintagma adverbial  +  conjunción subordinante sustantiva  +  sintagma nominal  
+Regla N="425" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  sintagma adverbial  +  conjunción subordinante sustantiva  +  sintagma adverbial  
+Regla N="426" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  sintagma adverbial  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="427" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  sintagma adverbial  +  preposición  +  artículo determinado  +  pronombre de relativo  +  proposición  +  Fin de proposición  
+Regla N="428" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  participio  +  conjunción subordinante sustantiva  +  sintagma nominal  
+Regla N="429" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  participio  +  conjunción subordinante sustantiva  +  participio  
+Regla N="430" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  participio  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="431" frecuencia="1" proposición subordinada comparativa -> adverbio comparativo  +  participio  +  preposición  +  artículo determinado  +  pronombre de relativo  +  proposición  +  Fin de proposición  
+Regla N="432" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  adjetivo  +  adverbio de modo relativo comparativo  +  sintagma nominal  
+Regla N="433" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  adjetivo  +  adverbio de modo relativo comparativo  +  proposición  +  Fin de proposición  
+Regla N="434" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  adjetivo  +  adverbio de modo relativo comparativo  +  proposición subordinada sustantiva  +  Fin de proposición  
+Regla N="435" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  sintagma adverbial  +  adverbio de modo relativo comparativo  +  sintagma nominal  
+Regla N="436" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  sintagma adverbial  +  adverbio de modo relativo comparativo  +  proposición  +  Fin de proposición  
+Regla N="437" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  sintagma adverbial  +  adverbio de modo relativo comparativo  +  proposición subordinada sustantiva  +  Fin de proposición  
+Regla N="438" frecuencia="1" proposición subordinada comparativa -> adjetivo indefinido  +  sintagma nominal homogéneo  +  adverbio de modo relativo comparativo  +  sintagma nominal  
+Regla N="439" frecuencia="1" proposición subordinada comparativa -> adjetivo indefinido  +  sintagma nominal homogéneo  +  adverbio de modo relativo comparativo  +  proposición  +  Fin de proposición  
+Regla N="440" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  adverbio de modo relativo comparativo  +  sintagma nominal  
+Regla N="441" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  adverbio de modo relativo comparativo  +  proposición  +  Fin de proposición  
+Regla N="442" frecuencia="1" proposición subordinada comparativa -> adverbio de cantidad  +  adverbio de modo relativo comparativo  +  proposición subordinada sustantiva  +  Fin de proposición  
+Regla N="443" frecuencia="1" proposición subordinada comparativa -> pronombre indefinido  +  adverbio de modo relativo comparativo  +  sintagma nominal  
+Regla N="444" frecuencia="1" proposición subordinada comparativa -> pronombre indefinido  +  adverbio de modo relativo comparativo  +  proposición  +  Fin de proposición  
+Regla N="445" frecuencia="1" proposición subordinada comparativa -> adverbio de duda  +  conjunción subordinante sustantiva  +  sintagma nominal  
+Regla N="446" frecuencia="1" proposición subordinada comparativa -> adverbio de duda  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="447" frecuencia="1" proposición subordinada comparativa -> adverbio de duda  +  preposición  +  adjetivo  +  conjunción subordinante sustantiva  +  sintagma nominal  
+Regla N="448" frecuencia="1" proposición subordinada comparativa -> adverbio de duda  +  preposición  +  adjetivo  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="449" frecuencia="1" proposición subordinada comparativa -> adjetivo indefinido  +  sintagma nominal homogéneo  +  adjetivo indefinido  +  sintagma nominal homogéneo  
+Regla N="450" frecuencia="1" proposición comparativa -> adverbio relativo de cantidad  +  adverbio comparativo  +  proposición  +  adverbio comparativo  +  proposición  
+Regla N="451" frecuencia="1" proposición comparativa -> adverbio relativo de cantidad  +  adverbio de tiempo  +  proposición  +  adverbio comparativo  +  proposición  
+Regla N="452" frecuencia="1" proposición comparativa -> adverbio relativo de cantidad  +  adverbio comparativo  +  proposición  +  adverbio comparativo  +  Fin de proposición  
+Regla N="453" frecuencia="1" proposición comparativa -> adverbio relativo de cantidad  +  adverbio de tiempo  +  proposición  +  adverbio comparativo  
+Regla N="454" frecuencia="1" proposición comparativa -> proposición comparativa  +  conjunción coordinante  +  proposición comparativa  
+Regla N="455" frecuencia="1" sintagma adjetivo -> cuantificador  +  adjetivo  
+Regla N="456" frecuencia="1" sintagma adjetivo -> cuantificador  +  sintagma adjetivo  
+Regla N="457" frecuencia="1" sintagma adjetivo -> adverbio de tiempo  +  adjetivo  
+Regla N="458" frecuencia="1" sintagma adjetivo -> adverbio de modo  +  adjetivo  
+Regla N="459" frecuencia="5" sintagma adjetivo -> adjetivo  +  complemento del adjetivo  
+Regla N="460" frecuencia="2" sintagma adjetivo -> adjetivo  +  conjunción coordinante  +  adjetivo  
+Regla N="461" frecuencia="1" sintagma adjetivo -> conjunción coordinante  +  adjetivo  +  conjunción coordinante  +  adjetivo  
+Regla N="462" frecuencia="1" sintagma adjetivo -> conjunción coordinante  +  adjetivo  +  Fin de proposición  +  conjunción coordinante  +  adjetivo  
+Regla N="463" frecuencia="1" sintagma adjetivo -> adjetivo  +  conjunción coordinante  +  adverbio de negación  +  adjetivo  
+Regla N="464" frecuencia="1" sintagma adjetivo -> adjetivo  +  Fin de proposición  +  Fin de proposición  
+Regla N="465" frecuencia="2" sintagma adjetivo -> adjetivo  +  Fin de proposición  +  sintagma adjetivo  
+Regla N="466" frecuencia="2" sintagma adjetivo -> conjunción coordinante  +  adjetivo  +  Fin de proposición  +  sintagma adjetivo  
+Regla N="467" frecuencia="2" sintagma adjetivo -> sintagma adjetivo  +  conjunción coordinante  +  adjetivo  
+Regla N="468" frecuencia="1" sintagma adjetivo -> sintagma adjetivo  +  conjunción coordinante  +  adverbio de negación  +  adjetivo  
+Regla N="469" frecuencia="2" sintagma adjetivo -> adjetivo  +  conjunción coordinante  +  sintagma adjetivo  
+Regla N="470" frecuencia="2" sintagma adjetivo -> sintagma adjetivo  +  conjunción coordinante  +  sintagma adjetivo  
+Regla N="471" frecuencia="2" sintagma adjetivo -> sintagma adjetivo  +  Fin de proposición  +  Fin de proposición  
+Regla N="472" frecuencia="2" sintagma adjetivo -> sintagma adjetivo  +  Fin de proposición  +  sintagma adjetivo  
+Regla N="473" frecuencia="1" sintagma adjetivo -> adjetivo  +  proposición subordinada comparativa  
+Regla N="474" frecuencia="1" sintagma adjetivo -> adjetivo  +  adverbio de modo relativo comparativo  +  sintagma nominal  
+Regla N="475" frecuencia="1" sintagma adjetivo -> adverbio de cantidad  +  adjetivo  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="476" frecuencia="1" sintagma adjetivo -> adverbio de cantidad  +  sintagma adjetivo  +  conjunción subordinante sustantiva  +  proposición  +  Fin de proposición  
+Regla N="477" frecuencia="1" sintagma adjetivo -> adverbio de cantidad  +  adjetivo  +  conjunción subordinante sustantiva  +  proposición comparativa  +  Fin de proposición  
+Regla N="478" frecuencia="1" sintagma adjetivo -> proposición subordinada comparativa  
+Regla N="479" frecuencia="2" sintagma adjetivo -> adverbio de negación  +  sintagma adjetivo  
+Regla N="480" frecuencia="2" complemento del adjetivo -> sintagma preposicional  
+Regla N="481" frecuencia="3" sujeto -> sintagma nominal  
+Regla N="482" frecuencia="1" sujeto -> proposición subordinada sustantiva  
+Regla N="483" frecuencia="1" complemento directo -> sintagma nominal  
+Regla N="484" frecuencia="1" complemento directo -> sintagma preposicional  
+Regla N="485" frecuencia="1" complemento directo -> proposición subordinada sustantiva  
+Regla N="486" frecuencia="1" complemento indirecto -> sintagma nominal  
+Regla N="487" frecuencia="2" complemento indirecto -> sintagma preposicional  
+Regla N="488" frecuencia="1" vocativo -> sintagma nominal  
+Regla N="489" frecuencia="1" complemento circunstancial -> sintagma nominal  
+Regla N="490" frecuencia="8" complemento circunstancial -> sintagma preposicional  
+Regla N="491" frecuencia="6" complemento circunstancial -> sintagma adverbial  
+Regla N="492" frecuencia="1" complemento circunstancial -> proposición subordinada adverbial  
+Regla N="493" frecuencia="1" complemento circunstancial -> proposición de participio absoluto  
+Regla N="494" frecuencia="1" complemento circunstancial -> complemento circunstancial  +  conjunción coordinante  +  complemento circunstancial  
+Regla N="495" frecuencia="1" complemento circunstancial -> Signo de puntuación  +  complemento circunstancial  +  Signo de puntuación  
+Regla N="496" frecuencia="1" complemento circunstancial -> Signo de puntuación  +  nexo coordinante  +  complemento circunstancial  +  Signo de puntuación  
+Regla N="497" frecuencia="1" complemento circunstancial -> Signo de puntuación  +  complemento circunstancial  +  Fin de proposición  
+Regla N="498" frecuencia="1" complemento circunstancial -> Signo de puntuación  +  nexo coordinante  +  complemento circunstancial  +  Fin de proposición  
+Regla N="499" frecuencia="1" complemento circunstancial -> Inicio de proposición  +  complemento circunstancial  +  Signo de puntuación  
+Regla N="500" frecuencia="1" complemento circunstancial -> Inicio de proposición  +  nexo coordinante  +  complemento circunstancial  +  Signo de puntuación  
+Regla N="501" frecuencia="1" complemento preposicional -> sintagma preposicional  
+Regla N="502" frecuencia="2" complemento agente -> sintagma preposicional  
+Regla N="503" frecuencia="1" predicativo -> adjetivo  
+Regla N="504" frecuencia="1" predicativo -> adverbio de negación  +  adjetivo  
+Regla N="505" frecuencia="1" predicativo -> sintagma adjetivo  
+Regla N="506" frecuencia="1" atributo -> adjetivo  
+Regla N="507" frecuencia="1" atributo -> adverbio de negación  +  adjetivo  
+Regla N="508" frecuencia="1" atributo -> sintagma adjetivo  
+Regla N="509" frecuencia="2" atributo -> sintagma nominal  
+Regla N="510" frecuencia="1" atributo -> sintagma preposicional  
+Regla N="511" frecuencia="1" atributo -> sintagma adverbial  
+Regla N="512" frecuencia="1" atributo -> proposición subordinada adverbial  
+Regla N="513" frecuencia="1" atributo -> proposición subordinada sustantiva  
+Regla N="514" frecuencia="1" atributo -> proposición subordinada de relativo  
+Regla N="515" frecuencia="1" atributo -> atributo  +  conjunción coordinante  +  atributo  
+Regla N="516" frecuencia="3" proposición subordinada sustantiva -> proposición de infinitivo  
+Regla N="517" frecuencia="1" proposición subordinada sustantiva -> conjunción subordinante sustantiva  +  proposición  
+Regla N="518" frecuencia="1" proposición subordinada sustantiva -> conjunción coordinante  +  conjunción subordinante sustantiva  +  proposición  
+Regla N="519" frecuencia="1" proposición subordinada sustantiva -> conjunción subordinante sustantiva  +  proposición comparativa  
+Regla N="520" frecuencia="1" proposición subordinada sustantiva -> conjunción subordinante sustantiva  +  proposición subordinada sustantiva  
+Regla N="521" frecuencia="1" proposición subordinada sustantiva -> conjunción coordinante  +  conjunción subordinante sustantiva  +  proposición subordinada sustantiva  
+Regla N="522" frecuencia="1" proposición subordinada sustantiva -> proposición interrogativa  
+Regla N="523" frecuencia="1" proposición subordinada sustantiva -> conjunción coordinante  +  proposición interrogativa  
+Regla N="524" frecuencia="8" proposición subordinada sustantiva -> proposición subordinada sustantiva  +  conjunción coordinante  +  proposición subordinada sustantiva  
+Regla N="525" frecuencia="2" proposición subordinada sustantiva -> proposición subordinada sustantiva  +  Fin de proposición  +  Fin de proposición  
+Regla N="526" frecuencia="9" proposición subordinada sustantiva -> proposición subordinada sustantiva  +  Fin de proposición  +  proposición subordinada sustantiva  
+Regla N="527" frecuencia="5" proposición de infinitivo -> infinitivo  
+Regla N="528" frecuencia="2" proposición de infinitivo -> adverbio de negación  +  proposición de infinitivo  
+Regla N="529" frecuencia="9" proposición de infinitivo -> proposición de infinitivo  +  sujeto  
+Regla N="530" frecuencia="21" proposición de infinitivo -> proposición de infinitivo  +  complemento directo  
+Regla N="531" frecuencia="8" proposición de infinitivo -> proposición de infinitivo  +  complemento indirecto  
+Regla N="532" frecuencia="4" proposición de infinitivo -> proposición de infinitivo  +  atributo  
+Regla N="533" frecuencia="8" proposición de infinitivo -> proposición de infinitivo  +  complemento circunstancial  
+Regla N="534" frecuencia="2" proposición de infinitivo -> proposición de infinitivo  +  complemento preposicional  
+Regla N="535" frecuencia="2" proposición de infinitivo -> complemento preposicional  +  proposición de infinitivo  
+Regla N="536" frecuencia="1" proposición de infinitivo -> proposición de infinitivo  +  complemento agente  
+Regla N="537" frecuencia="8" proposición de infinitivo -> proposición de infinitivo  +  predicativo  
+Regla N="538" frecuencia="3" proposición de gerundio -> gerundio  
+Regla N="539" frecuencia="2" proposición de gerundio -> adverbio de negación  +  proposición de gerundio  
+Regla N="540" frecuencia="7" proposición de gerundio -> proposición de gerundio  +  sujeto  
+Regla N="541" frecuencia="20" proposición de gerundio -> proposición de gerundio  +  complemento directo  
+Regla N="542" frecuencia="8" proposición de gerundio -> proposición de gerundio  +  complemento indirecto  
+Regla N="543" frecuencia="4" proposición de gerundio -> proposición de gerundio  +  atributo  
+Regla N="544" frecuencia="8" proposición de gerundio -> proposición de gerundio  +  complemento circunstancial  
+Regla N="545" frecuencia="2" proposición de gerundio -> proposición de gerundio  +  complemento preposicional  
+Regla N="546" frecuencia="1" proposición de gerundio -> proposición de gerundio  +  complemento agente  
+Regla N="547" frecuencia="8" proposición de gerundio -> proposición de gerundio  +  predicativo  
+Regla N="548" frecuencia="1" proposición de participio absoluto -> Inicio de proposición  +  proposición de participio  +  Fin de proposición  
+Regla N="549" frecuencia="1" proposición de participio -> participio  +  sujeto  
+Regla N="550" frecuencia="1" proposición de participio -> adverbio de negación  +  participio  +  sujeto  
+Regla N="551" frecuencia="1" proposición de participio -> proposición de participio  +  complemento circunstancial  
+Regla N="552" frecuencia="2" proposición de participio -> conjunción coordinante  +  proposición de participio  
+Regla N="553" frecuencia="2" proposición de participio -> proposición de participio  +  proposición de participio  
+Regla N="554" frecuencia="7" proposición subordinada sustantivada -> sujeto  +  proposición  
+Regla N="555" frecuencia="3" proposición subordinada sustantivada -> complemento directo  +  proposición  
+Regla N="556" frecuencia="2" proposición subordinada adjetiva -> sujeto  +  proposición  
+Regla N="557" frecuencia="10" proposición subordinada adjetiva -> complemento directo  +  proposición  
+Regla N="558" frecuencia="9" proposición subordinada adjetiva -> complemento directo  +  proposición de infinitivo  
+Regla N="559" frecuencia="4" proposición subordinada adjetiva -> complemento indirecto  +  proposición  
+Regla N="560" frecuencia="4" proposición subordinada adjetiva -> complemento indirecto  +  proposición de infinitivo  
+Regla N="561" frecuencia="2" proposición subordinada adjetiva -> complemento preposicional  +  proposición  
+Regla N="562" frecuencia="2" proposición subordinada adjetiva -> complemento preposicional  +  proposición de infinitivo  
+Regla N="563" frecuencia="4" proposición subordinada adjetiva -> complemento circunstancial  +  proposición  
+Regla N="564" frecuencia="3" proposición subordinada adjetiva -> complemento circunstancial  +  proposición de infinitivo  
+Regla N="565" frecuencia="1" proposición subordinada adjetiva -> complemento agente  +  proposición  
+Regla N="566" frecuencia="1" proposición subordinada adjetiva -> proposición de gerundio  
+Regla N="567" frecuencia="1" proposición subordinada adjetiva -> proposición subordinada adjetiva  +  Fin de proposición  
+Regla N="568" frecuencia="1" proposición subordinada adjetiva -> Inicio de proposición  +  proposición subordinada adjetiva  +  Fin de proposición  
+Regla N="569" frecuencia="1" proposición subordinada adjetiva -> Inicio de proposición  +  proposición subordinada adjetiva  +  Fin de oración  
+Regla N="570" frecuencia="11" infinitivo -> verbo  
+Regla N="571" frecuencia="10" gerundio -> verbo  
+Regla N="572" frecuencia="6" participio -> verbo  
+Regla N="573" frecuencia="2" auxiliar -> verbo  
+Regla N="574" frecuencia="5" infinitivo -> auxiliar  +  participio  
+Regla N="575" frecuencia="5" gerundio -> auxiliar  +  participio  
+Regla N="576" frecuencia="5" forma verbal personal -> verbo  
+Regla N="577" frecuencia="4" forma verbal personal -> auxiliar  +  participio  
+Regla N="578" frecuencia="2" infinitivo -> auxiliar  +  auxiliar  +  participio  
+Regla N="579" frecuencia="2" gerundio -> auxiliar  +  auxiliar  +  participio  
+Regla N="580" frecuencia="1" forma verbal personal -> auxiliar  +  auxiliar  +  participio  
+Regla N="581" frecuencia="5" infinitivo -> verbo  +  infinitivo  
+Regla N="582" frecuencia="5" infinitivo -> auxiliar  +  verbo  +  infinitivo  
+Regla N="583" frecuencia="5" gerundio -> verbo  +  infinitivo  
+Regla N="584" frecuencia="5" gerundio -> auxiliar  +  verbo  +  infinitivo  
+Regla N="585" frecuencia="6" forma verbal personal -> verbo  +  infinitivo  
+Regla N="586" frecuencia="6" forma verbal personal -> auxiliar  +  verbo  +  infinitivo  
+Regla N="587" frecuencia="5" infinitivo -> verbo  +  conjunción subordinante sustantiva  +  infinitivo  
+Regla N="588" frecuencia="5" infinitivo -> auxiliar  +  verbo  +  conjunción subordinante sustantiva  +  infinitivo  
+Regla N="589" frecuencia="5" gerundio -> verbo  +  conjunción subordinante sustantiva  +  infinitivo  
+Regla N="590" frecuencia="5" gerundio -> auxiliar  +  verbo  +  conjunción subordinante sustantiva  +  infinitivo  
+Regla N="591" frecuencia="6" forma verbal personal -> verbo  +  conjunción subordinante sustantiva  +  infinitivo  
+Regla N="592" frecuencia="2" forma verbal personal -> forma verbal personal  +  conjunción subordinante sustantiva  +  infinitivo  
+Regla N="593" frecuencia="6" forma verbal personal -> auxiliar  +  verbo  +  conjunción subordinante sustantiva  +  infinitivo  
+Regla N="594" frecuencia="10" infinitivo -> verbo  +  preposición  +  infinitivo  
+Regla N="595" frecuencia="10" infinitivo -> auxiliar  +  verbo  +  preposición  +  infinitivo  
+Regla N="596" frecuencia="10" gerundio -> verbo  +  preposición  +  infinitivo  
+Regla N="597" frecuencia="10" gerundio -> auxiliar  +  verbo  +  preposición  +  infinitivo  
+Regla N="598" frecuencia="12" forma verbal personal -> verbo  +  preposición  +  infinitivo  
+Regla N="599" frecuencia="12" forma verbal personal -> auxiliar  +  verbo  +  preposición  +  infinitivo  
+Regla N="600" frecuencia="5" infinitivo -> verbo  +  gerundio  
+Regla N="601" frecuencia="5" infinitivo -> auxiliar  +  verbo  +  gerundio  
+Regla N="602" frecuencia="5" gerundio -> verbo  +  gerundio  
+Regla N="603" frecuencia="5" gerundio -> auxiliar  +  verbo  +  gerundio  
+Regla N="604" frecuencia="6" forma verbal personal -> verbo  +  gerundio  
+Regla N="605" frecuencia="6" forma verbal personal -> auxiliar  +  verbo  +  gerundio  
+Regla N="606" frecuencia="5" proposición -> forma verbal personal  
+Regla N="607" frecuencia="1" proposición -> pronombre personal  +  forma verbal personal  
+Regla N="608" frecuencia="28" proposición -> complemento directo  +  proposición  
+Regla N="609" frecuencia="17" proposición -> complemento indirecto  +  proposición  
+Regla N="610" frecuencia="5" proposición -> atributo  +  proposición  
+Regla N="611" frecuencia="1" dativo -> pronombre personal  
+Regla N="612" frecuencia="2" proposición -> dativo  +  proposición  
+Regla N="613" frecuencia="1" proposición -> adverbio de negación  +  proposición  
+Regla N="614" frecuencia="16" proposición -> sujeto  +  proposición  
+Regla N="615" frecuencia="16" proposición -> proposición  +  sujeto  
+Regla N="616" frecuencia="5" proposición -> proposición  +  atributo  
+Regla N="617" frecuencia="42" proposición -> proposición  +  complemento directo  
+Regla N="618" frecuencia="7" proposición -> proposición  +  complemento indirecto  
+Regla N="619" frecuencia="9" proposición -> proposición  +  predicativo  
+Regla N="620" frecuencia="9" proposición -> proposición  +  complemento circunstancial  
+Regla N="621" frecuencia="4" proposición -> complemento circunstancial  +  proposición  
+Regla N="622" frecuencia="1" proposición -> proposición  +  complemento preposicional  
+Regla N="623" frecuencia="1" proposición -> proposición  +  complemento agente  
+Regla N="624" frecuencia="1" proposición -> Inicio de proposición  +  vocativo  +  Fin de proposición  +  proposición  
+Regla N="625" frecuencia="1" proposición -> proposición  +  Fin de proposición  +  vocativo  +  Fin de proposición  
+Regla N="626" frecuencia="1" proposición -> proposición  +  Fin de proposición  +  vocativo  +  Signo de puntuación  
+Regla N="627" frecuencia="4" oración -> Signo de puntuación  +  vocativo  +  Fin de proposición  +  proposición  +  Signo de puntuación  
+Regla N="628" frecuencia="2" oración -> Signo de puntuación  +  vocativo  +  Fin de proposición  +  proposición interrogativa  +  Signo de puntuación  
+Regla N="629" frecuencia="4" oración -> Signo de puntuación  +  proposición  +  Fin de proposición  +  vocativo  +  Signo de puntuación  
+Regla N="630" frecuencia="2" oración -> Signo de puntuación  +  proposición interrogativa  +  Fin de proposición  +  vocativo  +  Signo de puntuación  
+Regla N="631" frecuencia="1" proposición -> sintagma nominal  +  sintagma nominal sustitutivo  
+Regla N="632" frecuencia="3" proposición interrogativa -> sujeto  +  proposición  
+Regla N="633" frecuencia="6" proposición interrogativa -> complemento directo  +  proposición  
+Regla N="634" frecuencia="6" proposición interrogativa -> complemento directo  +  proposición de infinitivo  
+Regla N="635" frecuencia="4" proposición interrogativa -> complemento indirecto  +  proposición  
+Regla N="636" frecuencia="8" proposición interrogativa -> complemento indirecto  +  proposición de infinitivo  
+Regla N="637" frecuencia="4" proposición interrogativa -> atributo  +  proposición  
+Regla N="638" frecuencia="2" proposición interrogativa -> complemento preposicional  +  proposición  
+Regla N="639" frecuencia="2" proposición interrogativa -> complemento preposicional  +  proposición de infinitivo  
+Regla N="640" frecuencia="4" proposición interrogativa -> complemento circunstancial  +  proposición  
+Regla N="641" frecuencia="4" proposición interrogativa -> complemento circunstancial  +  proposición de infinitivo  
+Regla N="642" frecuencia="2" oración -> proposición  
+Regla N="643" frecuencia="1" oración -> proposición comparativa  
+Regla N="644" frecuencia="1" oración -> proposición interrogativa  
+Regla N="645" frecuencia="1" oración -> Inicio de oración  +  nexo coordinante  +  oración  
+Regla N="646" frecuencia="2" oración -> Signo de puntuación  +  nexo coordinante  +  oración  +  Signo de puntuación  
+Regla N="647" frecuencia="2" oración -> Signo de puntuación  +  nexo coordinante  +  oración  
+Regla N="648" frecuencia="1" oración -> Inicio de oración  +  nexo coordinante  +  Fin de proposición  +  oración  
+Regla N="649" frecuencia="2" oración -> Signo de puntuación  +  nexo coordinante  +  Fin de proposición  +  oración  +  Signo de puntuación  
+Regla N="650" frecuencia="2" oración -> Signo de puntuación  +  nexo coordinante  +  Fin de proposición  +  oración  
+Regla N="651" frecuencia="2" oración -> oración  +  Fin de proposición  +  oración  
+Regla N="652" frecuencia="2" oración -> oración  +  Fin de proposición  +  nexo coordinante  +  oración  
+Regla N="653" frecuencia="2" oración -> oración  +  Fin de proposición  +  nexo coordinante  +  Fin de proposición  +  oración  
+Regla N="654" frecuencia="1" oración -> oración  +  nexo coordinante  +  oración  
+Regla N="655" frecuencia="1" oración -> oración  +  nexo coordinante  +  Fin de proposición  +  oración  
+Regla N="656" frecuencia="1" oración -> oración  +  nexo coordinante  +  proposición  
+Regla N="657" frecuencia="1" oración -> oración  +  Fin de proposición  +  proposición  
+Regla N="658" frecuencia="1" oración -> oración  +  Fin de proposición  +  nexo coordinante  +  proposición  
+Regla N="659" frecuencia="2" nexo coordinante -> conjunción coordinante copulativa  
+Regla N="660" frecuencia="1" nexo coordinante -> conjunción coordinante disyuntiva  
+Regla N="661" frecuencia="1" nexo coordinante -> conjunción coordinante disyuntiva  +  adverbio de modo  
+Regla N="662" frecuencia="1" nexo coordinante -> conjunción adversativa  
+Regla N="663" frecuencia="1" nexo coordinante -> locución conjuntiva coordinante adversativa  
+Regla N="664" frecuencia="1" nexo coordinante -> locución conjuntiva coordinante explicativa  
+Regla N="665" frecuencia="1" nexo coordinante -> locución conjuntiva subordinante adverbial consecutiva  
+Regla N="666" frecuencia="2" oración -> Signo de puntuación  +  oración  +  Signo de puntuación  
+Regla N="667" frecuencia="2" oración -> Signo de puntuación  +  oración  
+Regla N="668" frecuencia="1" Signo de puntuación -> ,  
+Regla N="669" frecuencia="1" Signo de puntuación -> ...  
+Regla N="670" frecuencia="1" Signo de puntuación -> ;  
+Regla N="671" frecuencia="1" Signo de puntuación -> :  
+Regla N="672" frecuencia="1" Signo de puntuación -> ¿  
+Regla N="673" frecuencia="1" Signo de puntuación -> ?  
+Regla N="674" frecuencia="1" Signo de puntuación -> ¡  
+Regla N="675" frecuencia="1" Signo de puntuación -> !  
+Regla N="676" frecuencia="1" Fin de proposición -> Signo de puntuación  
+Regla N="677" frecuencia="1" Fin de proposición -> Fin de oración  
+Regla N="678" frecuencia="1" Fin de oración -> .  
+Regla N="679" frecuencia="1" Fin de oración -> FDE  
+Regla N="680" frecuencia="1" Inicio de proposición -> Signo de puntuación  
+Regla N="681" frecuencia="1" Inicio de proposición -> Inicio de oración  
+Regla N="682" frecuencia="1" Inicio de oración -> IDE  
+Regla N="683" frecuencia="1" oración -> exclamación  
+Regla N="684" frecuencia="1" oración -> onomatopeya  
+Regla N="685" frecuencia="1" oración -> expresión  
+Regla N="686" frecuencia="1" contracción -> contracción  
+Total de reglas diferentes: 1469
+
+Las reglas se distribuyen según la siguiente organización:
+Con 1 requisitos, aparecen: 459 reglas. Originalmente son: 459
+Con 2 requisitos, aparecen: 107 reglas. Originalmente son: 214
+Con 3 requisitos, aparecen: 26 reglas. Originalmente son: 78
+Con 4 requisitos, aparecen: 19 reglas. Originalmente son: 76
+Con 5 requisitos, aparecen: 23 reglas. Originalmente son: 115
+Con 6 requisitos, aparecen: 15 reglas. Originalmente son: 90
+Con 7 requisitos, aparecen: 3 reglas. Originalmente son: 21
+Con 8 requisitos, aparecen: 10 reglas. Originalmente son: 80
+Con 9 requisitos, aparecen: 5 reglas. Originalmente son: 45
+Con 10 requisitos, aparecen: 6 reglas. Originalmente son: 60
+Con 11 requisitos, aparecen: 2 reglas. Originalmente son: 22
+Con 12 requisitos, aparecen: 3 reglas. Originalmente son: 36
+Con 13 requisitos, aparecen: 1 reglas. Originalmente son: 13
+Con 16 requisitos, aparecen: 2 reglas. Originalmente son: 32
+Con 17 requisitos, aparecen: 1 reglas. Originalmente son: 17
+Con 20 requisitos, aparecen: 1 reglas. Originalmente son: 20
+Con 21 requisitos, aparecen: 1 reglas. Originalmente son: 21
+Con 28 requisitos, aparecen: 1 reglas. Originalmente son: 28
+Con 42 requisitos, aparecen: 1 reglas. Originalmente son: 42
+Total de reglas OK!

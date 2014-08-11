@@ -1,0 +1,174 @@
+0
+1
+2
+I
+II
+III
+IV
+PSAdv
+PSS
+abreadmiración
+abreinterrogación
+adjetiva
+adjetivo
+adjetivo coordinado
+adverbial
+adverbio
+adversativa
+adyacente
+adyacente adjetiva
+afirmativa
+afirmativo
+agente
+ambos
+aposicionsincoma
+aposición
+artículo determinado
+asinable
+atributiva
+cantidad
+casi
+causal
+cierraadmiración
+cierrainterrogación
+circunstancial
+coma
+como
+comparable
+comparativa
+comparativo
+complementable
+complementada_izquierda
+complementado
+complementopreposicional
+compuesto
+con
+con sujeto
+concesiva
+concoma
+condicional
+conjunción
+consecutiva
+consecutivo
+coordinada
+coordinado
+copulativa
+cuantificado
+cuantificadoradjetivo
+cuyo
+cuántocuál
+de
+deloque
+denominal
+determinante pospuesto
+directo
+disyuntiva
+doble preposición
+dospuntos
+duda
+enclítico
+estar
+exclamativa
+explicativa
+final
+forma verbal
+forma verbal cerrada
+forma verbal no
+gerundio
+haber
+hacer
+horas
+idem
+igual
+imperativo
+impersonal
+incoordinable
+indeterminado
+indirecto
+infinitivo
+innegable
+interrogativa
+interrogativa indirecta
+interrogativo
+locativo
+locativo con complemento
+locativotemporal
+loque
+mente
+mixto
+modo
+modo relativo comparativo
+negable
+negación
+negado
+negadoni
+negativa
+ni
+noagente
+nombre propio de lugar
+nombre propio de persona
+nominal
+nopredicativo
+numeral
+ordinal
+otro
+parecer
+participio absoluto
+pasiva
+poco
+posesivo
+posible transitiva
+posiblepronominal
+postmodificado
+predicativo
+predicativoobjetivo
+predicativosubjetivo
+preposicional
+proclítico atributivo
+proclítico directo mixto
+proclítico directo puro
+proclítico indirecto
+pronombre
+pronombre de relativo
+pronominal
+pronominalpuro
+proposición
+proposición pura
+punto
+puntossuspensivos
+puntoycoma
+que
+que_cd_infinitivo
+quequien
+quien
+quién
+qué
+quécuán
+raíz
+relativo
+relativo de cantidad
+se
+ser
+si
+sinadyacenteadverbial
+sindeterminantes
+sinposesivo
+sintagma
+subjuntivo
+subordinada sustantiva
+subordinada sustantivada
+sujeto pospuesto
+sustantivado
+sustitutivo
+sustitutivo de persona
+temporal
+tiempo
+transitiva
+transitivo
+tónico 1
+tónico 2
+verbal
+verbo inicial
+vocativo
+yuxtapuesta
+átono

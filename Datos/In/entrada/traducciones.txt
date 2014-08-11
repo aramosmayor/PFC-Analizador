@@ -1,0 +1,163 @@
+1#sustantivo#sustantivo
+2#sustantivo masculino#sustantivo
+3#sustantivo femenino#sustantivo
+4#sustantivo de género común#sustantivo
+5#sustantivo de género ambiguo#sustantivo
+6#sustantivo masculino plural#sustantivo
+7#sustantivo femenino plural#sustantivo
+8#sustantivo de género común en plural#sustantivo
+9#sustantivo de género ambiguo en plural#sustantivo
+10#nombre propio toponímico#nombre propio lugar
+11#nombre propio de persona#nombre propio persona
+12#nombre propio de varón#nombre propio persona
+13#nombre propio de mujer#nombre propio persona
+14#apellido#nombre propio persona
+15#nombre propio#nombre propio original
+16#nombre propio masculino#nombre propio original
+17#nombre propio femenino#nombre propio original
+18#nombre propio masculino plural#nombre propio original
+19#nombre propio femenino plural#nombre propio original
+20#adjetivo#adjetivo
+21#adjetivo comparativo#adjetivo
+22#adjetivo correlativo#adjetivo correlativo
+23#adjetivo demostrativo#adjetivo demostrativo
+24#adjetivo indefinido#adjetivo indefinido
+25#adjetivo indefinido plural#adjetivo indefinido
+26#adjetivo interrogativo#adjetivo interrogativo
+27#adjetivo latino#adjetivo
+28#adjetivo numeral#adjetivo numeral
+29#adjetivo plural#adjetivo
+30#adjetivo ponderativo#adjetivo ponderativo
+31#adjetivo posesivo#adjetivo posesivo
+32#adjetivo pronominal#adjetivo indefinido
+33#adjetivo relativo#adjetivo indefinido
+34#adjetivo superlativo#adjetivo
+35#numeral cardinal#numeral cardinal
+40#adverbio#adverbio
+41#adverbio afirmativo#adverbio afirmativo
+42#adverbio de cantidad#adverbio de cantidad
+43#adverbio comparativo#adverbio comparativo
+44#adverbio correlativo#adverbio de cantidad
+45#adverbio demostrativo#adverbio
+46#adverbio de duda#adverbio de duda
+47#adverbio interrogativo de cantidad#adverbio interrogativo de cantidad
+48#adverbio interrogativo de lugar#adverbio interrogativo de lugar
+49#adverbio de lugar#adverbio de lugar
+50#adverbio latino#adverbio
+51#adverbio de modo#adverbio de modo
+53#adverbio interrogativo y exclamativo de modo#adverbio interrogativo y exclamativo de modo
+54#adverbio de modo relativo comparativo#adverbio de modo relativo comparativo
+55#adverbio de negación#adverbio de negación
+56#adverbio numeral latino#adverbio
+57#adverbio de orden#NO_USADO
+58#adverbio relativo de cantidad#adverbio relativo de cantidad
+59#adverbio relativo de lugar#adverbio relativo de lugar
+60#adverbio relativo de tiempo#adverbio relativo de tiempo
+61#adverbio de tiempo#adverbio de tiempo
+62#adverbio interrogativo de tiempo#adverbio interrogativo de tiempo
+100#pronombre#NO_USADO
+101#pronombre en función adjetiva#NO_USADO
+102#pronombre correlativo#NO_USADO
+103#pronombre demostrativo#pronombre demostrativo
+104#pronombre demostrativo en función adjetiva#pronombre demostrativo
+105#pronombre exclamativo#pronombre interrogativo
+106#pronombre indefinido#pronombre indefinido
+107#pronombre interrogativo#pronombre interrogativo
+108#pronombre latino#pronombre latino
+109#pronombre personal#pronombre personal
+110#pronombre posesivo#pronombre posesivo
+111#pronombre de relativo#pronombre de relativo
+112#pronombre plural#pronombre plural
+120#artículo determinado#artículo determinado
+121#artículo indeterminado#artículo indeterminado
+200#preposición#preposición
+201#preposición latina#preposición
+210#conjunción#conjunción
+211#conjunción coordinante adversativa#conjunción adversativa
+212#conjunción subordinante adverbial causal#conjunción subordinante adverbial causal
+213#conjunción subordinante adverbial condicional#conjunción subordinante adverbial condicional
+214#conjunción subordinante adverbial concesiva#conjunción subordinante adverbial concesiva
+215#conjunción coordinante copulativa#conjunción coordinante copulativa
+216#conjunción coordinante distributiva#NO_USADO
+217#conjunción coordinante disyuntiva#conjunción coordinante disyuntiva
+218#conjunción subordinante adverbial final#conjunción subordinante adverbial final
+219#conjunción ilativa#NO_USADO
+220#conjunción latina#conjunción
+221#conjunción subordinante temporal#conjunción subordinante temporal
+222#conjunción coordinante comparativa#NO_USADO
+223#conjunción subordinante adverbial consecutiva#conjunción subordinante adverbial consecutiva
+224#conjunción continuativa#NO_USADO
+225#conjunción subordinante sustantiva#conjunción subordinante sustantiva
+226#conjunción modal#conjunción modal
+227#conjunción subordinante adverbial de lugar#NO_USADO
+300#exclamación#exclamación
+301#onomatopeya#onomatopeya
+302#voz mnemotécnica para los modos de silogismo#sustantivo
+303#abreviatura, siglas, acrónimo o monograma#sustantivo
+304#afijo#sustantivo
+305#elemento prefijal#sustantivo
+306#elemento sufijal#sustantivo
+307#apócope#sustantivo
+308#contracción#contracción
+309#contracción antigua de preposición y pronombre#contracción
+310#símbolo#sustantivo
+311#símbolo químico#sustantivo
+312#expresión#expresión
+313#expresión latina#expresión
+320#palabra de otro idioma#sustantivo
+321#palabra de otro idioma usada como sustantivo#sustantivo
+322#palabra de otro idioma usada como sustantivo masculino#sustantivo
+323#palabra de otro idioma usada como sustantivo femenino#sustantivo
+324#palabra de otro idioma usada como sustantivo de género común#sustantivo
+325#palabra de otro idioma usada como sustantivo masculino plural#sustantivo
+326#palabra de otro idioma usada como sustantivo femenino plural#sustantivo
+327#palabra de otro idioma usada como adjetivo#adjetivo
+328#palabra de otro idioma usada como adverbio#adverbio
+329#palabra de otro idioma usada como adverbio de modo#adverbio de modo
+400#locución#NO_USADO
+401#locución adjetiva#NO_USADO
+402#locución adverbial#NO_USADO
+403#locución adverbial de modo#NO_USADO
+404#locución adverbial de tiempo#NO_USADO
+405#locución conjuntiva#NO_USADO
+406#locución conjuntiva coordinante adversativa#locución conjuntiva coordinante adversativa
+407#locución conjuntiva subordinante adverbial de modo#locución conjuntiva subordinante adverbial de modo
+408#locución francesa#NO_USADO
+409#locución inglesa#NO_USADO
+410#locución exclamativa#NO_USADO
+411#locución italiana#NO_USADO
+412#locución latina#NO_USADO
+413#locución modal#NO_USADO
+414#locución prepositiva#NO_USADO
+415#locución adverbial afirmativa#NO_USADO
+416#locución adverbial causal#NO_USADO
+417#locución adverbial comparativa#NO_USADO
+418#locución adverbial exclamativa#NO_USADO
+419#locución adverbial interrogativa#NO_USADO
+420#locución conjuntiva subordinante adverbial concesiva#locución conjuntiva subordinante adverbial concesiva
+421#locución conjuntiva subordinante adverbial condicional#locución conjuntiva subordinante adverbial condicional
+422#locución conjuntiva subordinante adverbial consecutiva#locución conjuntiva subordinante adverbial consecutiva
+423#locución conjuntiva continuativa#NO_USADO
+424#locución conjuntiva correlativa#NO_USADO
+425#locución conjuntiva subordinante adverbial final#locución conjuntiva subordinante adverbial final
+426#locución conjuntiva ilativa#NO_USADO
+427#locución sustantiva#NO_USADO
+428#locución verbal#NO_USADO
+429#locución conjuntiva coordinante distributiva#NO_USADO
+430#locución conjuntiva coordinante disyuntiva#NO_USADO
+431#locución conjuntiva coordinante explicativa#locución conjuntiva coordinante explicativa
+432#locución conjuntiva subordinante adverbial temporal#locución conjuntiva subordinante adverbial temporal
+433#locución conjuntiva subordinante adverbial de lugar#NO_USADO
+434#locución conjuntiva subordinante adverbial causal#locución conjuntiva subordinante adverbial causal
+435#locución conjuntiva subordinante adverbial comparativa#NO_USADO
+1000#verbo#verbo
+1001#verbo transitivo#verbo
+1002#verbo pronominal#verbo
+1003#verbo intransitivo#verbo
+1004#verbo unipersonal#verbo
+1005#verbo impersonal#verbo
+1006#verbo recíproco#verbo
+1007#verbo auxiliar#verbo
+1008#verbo defectivo#verbo
+1009#verbo antiguo o desusado#verbo
+1010#verbo atributivo#verbo
